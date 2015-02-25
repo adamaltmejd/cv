@@ -1,3 +1,10 @@
+---
+layout: page
+title: Curriculum Vitae
+author: Adam Altmejd
+---
+
+
 # Adam Altmejd
 Curriculum Vitae
 >  Interested in the rational limits of human rationality and it's bearings on society at large.
