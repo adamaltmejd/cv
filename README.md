@@ -1,2 +1,1 @@
-# Vita
-My Curriculum Vitae
+# CV of Adam Altmejd
