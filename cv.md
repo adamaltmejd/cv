@@ -4,50 +4,71 @@ title: Curriculum Vitae
 author: Adam Altmejd
 ---
 
+------------------------        -----------------------------------------
+Handelshögskolan                [adam@altmejd.se](mailto:adam@altmejd.se)
+Sveavägen 65, Box 6501          @adamaltmejd
+113 83 Stockholm, Sweden        [+46 (0) 734 20 01 20](tel:46734200120)
+------------------------        -----------------------------------------
 
-# Adam Altmejd
-Curriculum Vitae
->  Interested in the rational limits of human rationality and it's bearings on society at large.
+
+> Interested in the rational limits of human rationality and it's bearings on society at large.
 
 
-## EDUCATION
+## Education
 
-### Ph.D in Economics (2013--), 
-    Stockholm School of Economics, Sweden
-    Supervisor: Tore Ellingsen. 
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+ 
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+ 
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+ 
+    *Minor: Awesomeology*
+
+2013--2018 (expected)
+:   __Ph.D in Economics__, Stockholm School of Economics, Sweden
+
+    Supervisor: Tore Ellingsen
     105 ECTS coursework
     Average grade: Pass with distinction
-    Expected completion: June 2018
 
-### M.Sc in Economics (2012), 
-    Stockholm School of Economics, Sweden 
+2012
+:   __M.Sc in Economics (2012)__, Stockholm School of Economics 
+
     Unfinished, early admission to Ph.D program
     GPA 4.50/5
 
-### B.Sc in Business & Economics (2008--2012)
-    Stockholm School of Economics, Sweden
-    Specializations: economics, accounting. 
+2008--2012
+:   __B.Sc in Business & Economics__, Stockholm School of Economics 
+    
+    Major: Economics, minor: accounting 
     Exchange studies fall 2011 at Thammasat University, Bangkok
     Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”
     GPA 3.75/5
 
-### Art History (2008)
-    Stockholm University, Sweden
+2008
+:   __Art History__, Stockholm University, Sweden
+    
     GPA 4.00/5
 
-### French language and culture (2007)
-    Cours de Civilisation Francaise, Sorbonne, Paris
+2007
+:   __French language and culture__, Cours de Civilisation Francaise, Sorbonne, Paris
+
     Advanced level 
 
-### Senior High School, Natural Science (2004--2007)
-    Katedralskolan, Lund, Sweden
+2004--2007
+:   Senior High School, Natural Science, Katedralskolan, Lund, Sweden
+    
     Awarded scolarship for excellent performance in math/physics, 
     Top 20 in national physics competition 
     Final paper used as pilot study at Lund University Cognitive Science.
     GPA 20/20
 
 
-## RESEARCH PROJECTS
+## RESEARCH
 
 ### Prediction Markets for Science
     Research collaboration with, among others, Magnus Johannesson and Anna Dreber Almenberg (http://www.citationfuture.com).
@@ -136,6 +157,3 @@ Curriculum Vitae
 
 ## INTERESTS
     playing the piano, traveling, music, cinema (especially asian and russian), contemporary art, politics, programming, mathematics
-
-> Adam Altmejd ~ [adam@altmejd.se](adam@altmejd.se) ~ [+46 (0) 734 20 01 20](tel:46734200120)
-> Sveavägen 65, Box 6501, 113 83 Stockholm
