@@ -2,56 +2,49 @@
 layout: page
 title: Curriculum Vitae
 author: Adam Altmejd
+email: 'adam@altmejd.se'
+keywords: 'CV, Curriculum Vitae, Resume, Adam Altmejd'
+description: 'Hej'
+homepage: adamaltmejd.se
+twitter: 'adamaltmejd'
+linkedin: 'adamaltmejd'
+github: 'adamaltmejd'
+mobile: '+46 (0) 734 20 01 20'
+address: 
+    affiliation: 'Department of Economics'
+    online: 'https://www.hhs.se/en/Research/Departments/DE/'
+    main: 'Stockholm School of Economics'
+    box: 'Box 6501'
+    city: '113 83 Stockholm'
+    country: 'Sweden'
 ---
-
-------------------------        -----------------------------------------
-Handelshögskolan                [adam@altmejd.se](mailto:adam@altmejd.se)
-Sveavägen 65, Box 6501          @adamaltmejd
-113 83 Stockholm, Sweden        [+46 (0) 734 20 01 20](tel:46734200120)
-------------------------        -----------------------------------------
-
-
-> Interested in the rational limits of human rationality and it's bearings on society at large.
-
 
 ## Education
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
- 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
- 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
- 
-    *Minor: Awesomeology*
-
 2013--2018 (expected)
-:   __Ph.D in Economics__, Stockholm School of Economics, Sweden
-
-    Supervisor: Tore Ellingsen
-    105 ECTS coursework
+:   __Ph.D in Economics__\
+    Stockholm School of Economics, Sweden\
+    Supervisor: Tore Ellingsen\
+    105 ECTS coursework\
     Average grade: Pass with distinction
 
 2012
-:   __M.Sc in Economics (2012)__, Stockholm School of Economics 
+:   __M.Sc in Economics__, Stockholm School of Economics 
 
-    Unfinished, early admission to Ph.D program
-    GPA 4.50/5
+     Unfinished, early admission to Ph.D program\
+     GPA 4.50/5
 
 2008--2012
 :   __B.Sc in Business & Economics__, Stockholm School of Economics 
-    
-    Major: Economics, minor: accounting 
-    Exchange studies fall 2011 at Thammasat University, Bangkok
-    Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”
+
+    Major: Economics, minor: accounting\
+    Exchange studies fall 2011 at Thammasat University, Bangkok\
+    Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”\
     GPA 3.75/5
 
 2008
 :   __Art History__, Stockholm University, Sweden
-    
+
     GPA 4.00/5
 
 2007
@@ -60,100 +53,144 @@ Sveavägen 65, Box 6501          @adamaltmejd
     Advanced level 
 
 2004--2007
-:   Senior High School, Natural Science, Katedralskolan, Lund, Sweden
-    
-    Awarded scolarship for excellent performance in math/physics, 
-    Top 20 in national physics competition 
-    Final paper used as pilot study at Lund University Cognitive Science.
+:   __Senior High School__, Natural Science, Katedralskolan, Lund, Sweden
+
+    Awarded scolarship for excellent performance in math/physics\
+    Top 20 in national physics competition\
+    Science project used as pilot study at Lund University Cognitive Science\
     GPA 20/20
 
 
-## RESEARCH
+## Research
 
-### Prediction Markets for Science
-    Research collaboration with, among others, Magnus Johannesson and Anna Dreber Almenberg (http://www.citationfuture.com).
-    In a various number of projects, we study how prediction markets can be used to ameliorate the scientific process. Eliciting private information, prediction markets allow us to study replicability and quality of research. Currently working on a market on replication of studies in behavioral economics.
+&nbsp;
+:   __Choosing Money__
 
-### Money as a store of value - Bringing Hugget to the lab
-    Experimental macroeconomics project with Siri Isaksson. In the context of the Hugget (1993) economy, we study how and why fiat money can be valued as an equilibrium selection process. We run laboratory experiments based on said model and study how risk preferences affect the degree of money valuation.
+    Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modelling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
 
-### Strategic Unawareness
-    Using models of unforeseen contingencies due to Kreps (1979) as well as Dekel, Lipman and Rustichini (2001), I study how deci- sion makers interact in a non-cooperative setting. I explore the notion and existence of equilibria in such games where players have subjective state spaces and are not necessarily aware of the consequences of their actions.
+    We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and treat subjects in key dimensions. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
 
+&nbsp;
+:   __Prediction Markets for Science__
 
-## TEACHING EXPERIENCE
+    In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study replicability and quality of research. Currently working on a market on replication of studies in behavioral economics. Joint with, among others, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
 
-### Mathematics I, PhD
+&nbsp;
+:   __Evolution of preferences for ambiguity__
+
+    Joint project with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033)
+
+&nbsp;
+:   __Games with *unknown unknowns*__
+
+    *Add information about project*
+
+## Teaching Experience
+
+Fall 2014
+:   __Mathematics I, PhD__
+
     Teaching Assistant for Professor Jörgen Weibull
-    Fall 2014
 
-### Microeconomics, Undergraduate
-    Teaching Assistant for Professor Richard Friberg 
-    Fall 2012
+Fall 2012
+:   __Microeconomics, Undergraduate__
 
-## HONORS, SCHOLARSHIPS AND FELLOWSHIPS
+    Teaching Assistant for Professor Richard Friberg
 
-### Hedelius Research Fellowship 
-    Awarded SEK 642 000 for visiting scholar position at Harvard University (not yet realized), 2014.
+## Awards
 
-### SASSE Scholarship 
-    Awarded SEK 85 000 from the Student Association at SSE for summer studies at Stanford University, 2013.
+2014
+:   __Hedelius Research Fellowship__
 
+    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University
 
-## REFERENCES
+2013
+:   __SASSE Scholarship__
 
-### Professor Tore Ellingsen, 
-    Main Supervisor
-    [tore.ellingsen@hhs.se](tore.ellingsen@hhs.se)
-    [+46-8-736 92 60](tel:4687369260)
-
-### Professor Jörgen Weibull
-    Second Supervisor
-    [jorgen.weibull@hhs.se](jorgen.weibull@hhs.se)
-    [+46 8 736 92 04](tel:4687369204)
-
-### Professor Magnus Johannesson
-    [magnus.johannesson@hhs.se](magnus.johannesson@hhs.se)
-    [+46-8-736 94 43](tel:4687369443)
+    Awarded SEK 85 000 from the Student Association at SSE for summer studies at Stanford University
 
 
-## WORK EXPERIENCE
-
-### Summer Associate, JKL
-    Summer internship, consultant in Public Affairs, focusing on economic issues and communication strategy. 
-    JKL is one of the most esteemed Swedish consultancies in strategic communication. Worked in project with both private and public sector clients.
-
-### Business Development Intern, Spotify
-    Summer internship, 1 of 15 admitted from over 1500 applicants. About 60 hrs/week. Results: created tools for analysis of partnership performance, to evaluate current results and to create projections for future deals. Greatly improved infrastructure and process for partnership KPI analysis.
-    Part-time Analyst, Business Development, Spotify (about 10 hrs/week)
-
-### Intern, Prime
-    Summer internship in public affairs division (about 60 hrs/week, 1105-1107). Also part-time work (5-10 hrs/week) during spring 2011, and spring 2012 in different divisions, with media analysis, research, event, etc.
-    Responsibilities: research, writing communication material (marketing, press, opinion), preparing pitches
-
-### Vice President, Student Association at the Stockholm School of Economics
-    Most active Student Association in Scandinavia. 2000 members, yearly turnover 15MSEK, about 75 hrs/week, full-time position with one year mandate. Responsible for all running operations in the Student Association, with about 300 active students in 30-50 different projects and associations, responsible for the association’s premises and restaurant/bar, also responsible for the Senior Society with many well-known SSE alumni as members.
-    Skills applied: problem-solving, motivational, communication, delegating, organizational
-    Results: renovated premises, english as working language, new web portal, communication strategy
+## References
 
 
-## OTHER QUALIFICATIONS
+&nbsp;
+:   __Professor Tore Ellingsen__
 
-### Stureakademin 2011
-    Course arranged by Timbro (Swedish think-tank) in writing, ideology, public opinion and policy-making. Best final essay awarded scholarship to participate in course arranged by IHS (Washington DC). 
-
-### Head of Communication Handelsdagarna 2010, The Student Association at SSE
-    Largest project at SSE with a turnover of approximately 2MSEK. 300 hrs work in parallel to full time studies. Led a team of 6 people. Oversaw creation of catalogue, video commercials, web site, printed marketing etc.
-    Key skills applied: leadership, motivational, communication strategy
-    Result: completely updated the communicative profile of Handelsdagarna, establishing the fair’s brand as more profes- sional, modern. Communications achieved very high ratings among visiting students and companies.
-
-### Head of Marketing for M2:2009, The Student Association at SSE
-    M2 is a career fair with focus on the media and marketing-business, turnover of approximately 200KSEK. 150 hrs work in parallel to full time studies. Result: established a brand that communicated creativity and is still used by the project. Successfully attracted many students to the industry
-    Council member of the Student Association at SSE (reelected for 1103-1203, and 1203-1303)
+    Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
 
 
-## LANGUAGE AND COMPUTER SKILLS
-    Swedish (native) English (fluent) French (good) Polish (good), Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe- suite, programming in Python, SQL, web design.
+&nbsp;
+:   __Professor Jörgen Weibull__
 
-## INTERESTS
-    playing the piano, traveling, music, cinema (especially asian and russian), contemporary art, politics, programming, mathematics
+    Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
+
+&nbsp;
+:   __Professor Magnus Johannesson__
+
+    <magnus.johannesson@hhs.se> • +46-8-736 94 43
+
+
+## Work Experience
+
+2013
+:   __Summer Associate, JKL__
+
+    Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
+
+2012--2013
+:   __Business Development Intern, Spotify__
+
+    Summer internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Created tools for analysis of partnership performance, to evaluate current results and to create projections for future deals. Greatly improved infrastructure and process for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
+
+2011--2012 
+:   __Intern, Prime__
+
+    Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events, etc.
+
+2010--2011
+:   __Vice President__ Student Association at SSE
+
+    Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
+
+    Responsible for all running operations in the Student Association, with about 300 active students in 30-50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
+
+## Other Qualifications
+
+2014--2015
+:   __Member of the board of the SSE Alumni Association__
+
+    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
+
+2009--2015
+:   __Member of the Council and Board of Directors of the SSE Student Association__
+
+    Elected to the Student Council for three periods, 2009-2010, 2011-2012, and 2014-2015
+    Elected member of the Board of Directors of the Student Association during 2012-2013 and 2013-2014.
+
+2008--2013
+:   __Various voluntary projects within the Student Association at SSE__
+
+    Head of Communication for Handelsdagarna 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for M2:2009, a career fair focused on the communication business.
+
+2011
+:   __Stureakademin__
+
+    Course arranged by Timbro (Swedish think-tank) in writing, ideology, public opinion and policy-making. Best final essay awarded scholarship to participate in course arranged by IHS (Washington DC).
+
+
+## Skills and Interests
+
+&nbsp;
+:   __Spoken Languages__
+    
+    Swedish (native), English (fluent), French (good), Polish (good)
+
+&nbsp;
+:   __Computer Skills__
+    
+    Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite, programming in Python, SQL, Web Design with HTML5, CSS, SASS, Twitter Bootstrap etc.
+
+&nbsp;
+:   __Interests__
+
+    Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
