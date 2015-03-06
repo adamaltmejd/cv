@@ -111,17 +111,17 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 ## Work Experience
 
 2013
-:   __Summer Associate, JKL__
+:   __Summer Associate__, [JKL](http://www.jkl.se/)
 
     Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
 
 2012--2013
-:   __Business Development Intern, Spotify__
+:   __Business Development Intern__, [Spotify](http://www.spotify.com)
 
     Summer internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Created tools for analysis of partnership performance, to evaluate current results and to create projections for future deals. Greatly improved infrastructure and process for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
 
 2011--2012 
-:   __Intern, Prime__
+:   __Intern__, [Prime](http://www.primegroup.com/)
 
     Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events, etc.
 
@@ -153,7 +153,7 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 2011
 :   __Stureakademin__
 
-    Course arranged by Timbro (Swedish think-tank) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the Institute for Humane Studies in Washington DC.
+    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the Institute for Humane Studies in Washington DC.
 
 
 ## Skills and Interests
