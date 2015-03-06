@@ -126,7 +126,7 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
     Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events, etc.
 
 2010--2011
-:   __Vice President__ [Student Association at SSE](http://www.sasse.se)
+:   __Vice President__, [Student Association at SSE](http://www.sasse.se)
 
     Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
 
@@ -136,9 +136,9 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 ## Other Qualifications
 
 2014--2015
-:   __Member of the board of the SSE Alumni Association__
+:   __Member of the board__, [SSE Alumni Association](http://hhskamratforening.se/)
 
-    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties [online](http://hhskamratforening.se/). 
+    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties. 
 
 2009--2015
 :   __Member of the Council and Board of Directors of the SSE Student Association__
