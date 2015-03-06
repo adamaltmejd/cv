@@ -1,0 +1,234 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% Adam Altmejd's CV template for use with XeLaTeX
+% Inspired by Kieran Healy (https://github.com/kjhealy) pandoc-templates and Vita
+
+% TODO:
+% - Add support for VC package
+% - Layout
+% - Clean up and organize
+
+%\RequirePackage[l2tabu,orthodox]{nag}
+\documentclass[a4paper,11pt,article,oneside,openany]{memoir}
+\usepackage{fontspec}
+\usepackage{polyglossia}\setmainlanguage[variant=american]{english}
+\usepackage{geometry}
+\usepackage[sf,compact]{titlesec}
+
+$if(vc-git)$
+    \input{vc}
+$endif$
+
+% Package that provides possibility to set spacing.
+$if(linestretch)$
+    \usepackage{setspace}
+    \setstretch{$linestretch$}
+$endif$
+
+\usepackage{unicode-math,amsmath}
+\usepackage{upquote} % for straight quotes in verbatim
+\usepackage[english=american]{csquotes}
+\usepackage{microtype} % Only protrusion available in XeTeX
+%\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\usepackage[hyperref,svgnames]{xcolor}
+\usepackage{url}
+\usepackage{fontawesome} % for fontawesome fonts!
+\usepackage{enumitem} % for layout of description envs.
+
+$if(graphics)$
+    \usepackage{graphicx}
+    \makeatletter
+    \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+    \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+    \makeatother
+    % Scale images if necessary, so that they will not overflow the page
+    % margins by default, and it is still possible to overwrite the defaults
+    % using explicit options in \includegraphics[width, height, ...]{}
+    \setkeys{Gin}{width=\textwidth,height=\maxheight,keepaspectratio}
+$endif$
+
+% xetex, %should not provide drivers unless necessary
+% unicode=false, % unicode breaks when used with xetex
+% plainpages=false,pdfpagelabels,setpagesize=false,bookmarksnumbered
+\usepackage{hyperref}
+
+% =============================================================================
+% ============================ LAYOUT =========================================
+% =============================================================================
+
+% ============================ GEOMETRY, SKIPS, ETC. ==========================
+
+\geometry{centering,left=3cm,vscale=0.85}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+%\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\newlength\desclen
+\setlength\desclen{1.5\marginparwidth}
+
+% No section numbering
+\setcounter{secnumdepth}{0}
+
+\definecolor{brandprimary}{HTML}{384E91}
+\definecolor{brandsuccess}{HTML}{D0404E}
+
+% ============================ LINKS ==========================================
+
+\hypersetup{
+    breaklinks=true,
+    colorlinks=true,
+    citecolor=brandprimary,
+    urlcolor=brandprimary,
+    linkcolor=brandprimary,
+    pdfborder={0 0 0}
+    plainpages=false,
+    pdftitle={$if(keywords)$$keywords$$endif$},
+    pdfauthor={$if(keywords)$$keywords$$endif$},
+    pdfkeywords={$if(keywords)$$keywords$$endif$}
+}
+\urlstyle{same}
+
+$if(links-as-notes)$
+    % Make links footnotes instead of hotlinks:
+    \renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+$endif$
+
+% ============================ FONTS ==========================================
+
+\defaultfontfeatures{Mapping={tex-text}}
+\setromanfont[Numbers={OldStyle}]{Minion Pro}
+\setsansfont[Colour=brandsuccess]{Gill Sans Std Light}
+\setmonofont[Scale=0.8]{Consolas}
+\setmathfont[Scale=0.8]{XITS Math} % Mathfont needs to be loaded after amsmath
+\newfontface\headerfont[Scale=1.7]{Gill Sans Std Condensed}
+\newfontface\addressblockfont{Gill Sans Std}
+\newfontface\descriptionfont[Scale=0.8]{Gill Sans Std}
+
+% ============================ DESCRIPTION ENV ================================
+
+\SetLabelAlign{parright}{\strut\smash{\parbox[t]{\labelwidth}{\raggedleft#1}}}
+\setlist[description]{
+    style=multiline,
+    nosep,
+    labelsep=0.05\desclen,
+    leftmargin=0pt,
+    labelindent=-\desclen,
+    itemsep=1ex,
+    align=parright,
+    font=\descriptionfont
+}
+
+% ============================ MEMOIR STYLES ==================================
+
+% Footer style
+\makepagestyle{cv}
+\makeevenfoot{cv}{}{}{\thepage}
+\makeoddfoot{cv}{}{}{\thepage}
+\pagestyle{cv}
+\thispagestyle{empty} % empty first page
+
+$if(vc-git)$
+    \makepagestyle{gitstyle}
+    \makeevenfoot{gitstyle}{}{\texttt{\footnotesize Commit \VCRevisionMod\ on \VCDateTEX}}{}
+    \makeoddfoot{gitstyle}{}{\texttt{\footnotesize Commit \VCRevisionMod\ on \VCDateTEX}}{}
+    \thispagestyle{gitstyle}
+$endif$
+
+% ============================ SECTIONS =======================================
+
+%\titleformat{hcommandi}[hshapei]{hformati}{hlabeli}{hsepi}{hbefore-codei}[hafter-codei]
+%\titlespacing*{hcommandi}{hlefti}{hbefore-sepi}{hafter-sepi}[hright-sepi]
+
+%\titleformat{\subsection}[block]{\Large\sffamily}{\thesection}{0pt}{\titlerule\\}
+%\titlespacing*{\subsection}{-1.5\marginparwidth}{0pt}{0pt}
+
+\titleformat{\subsection}%
+    [block]% shape
+    {\Large\sffamily\bfseries}% format
+    {}% label {\llap{\hspace*{-\mylen}\thesection\hfill}}% label
+    {0 em}% sep
+    {%
+        \hspace*{-0.6\desclen}%
+        \color{brandsuccess}{\rule[-1 pt]{0.55\desclen}{0.17 cm}}%
+        \hspace*{0.05\desclen}%
+    ‎}% before-code
+    [] % after-code
+
+%\rule[depth]{width}{height}
+%\makebox[width][pos]{text}
+%\makebox[\linewidth][l]{\hspace*{-\mylen}\rule{\dimexpr\textwidth+\mylen\relax}{1pt}}
+
+
+\titlespacing*{\subsection}{0pt}{*3}{0pt}
+
+%before={\bigskip\leavevmode\blackrule[width=22mm, color=rulecolor]\hspace}
+
+\titleformat{\subsubsection}[block]{\normalsize\sffamily}{\thesubsection}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{*2}{0pt}
+
+% =============================================================================
+% ============================ BEGIN DOCUMENT =================================
+% =============================================================================
+\begin{document}
+
+% ============================ HEADER =========================================
+    \begin{minipage}[b]{0.4\textwidth}
+        {\huge\headerfont $author$}\\%[1em]
+        {\LARGE\headerfont $title$}
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{0.3\textwidth}
+        \raggedleft\footnotesize\addressblockfont
+        \href{$address.online$}{$address.affiliation$}\\
+        $address.main$\\
+        $address.box$ \\
+        $address.city$ \\
+        $address.country$
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{0.25\textwidth}
+        \raggedleft\footnotesize\addressblockfont%
+            $mobile$ \, \faPhone \\
+            \href{mailto:$email$}{$email$} \, \faEnvelope \\
+            \href{https://$homepage$}{$homepage$} \, \faGlobe \\
+            \href{https://twitter.com/$twitter$}{@$twitter$} \, \faTwitter \\
+            \href{https://linkedin.com/in/$linkedin$}{$linkedin$} \, \faLinkedin \\
+            %\href{https://github.com/$github$}{$github$} \, \faGithub
+    \end{minipage}
+
+    $if(description)$
+        % \begin{abstract}
+        %     \noindent $description$
+        % \end{abstract}
+    $endif$
+
+    \bigskip
+
+% ============================ BODY ===========================================
+
+    $body$
+
+% ============================ FOOTER =========================================
+
+    $if(natbib)$
+        $if(biblio-files)$
+            $if(biblio-title)$
+                $if(book-class)$
+                    \renewcommand\bibname{$biblio-title$}
+                $else$
+                    \renewcommand\refname{$biblio-title$}
+                $endif$
+            $endif$
+        \bibliography{$biblio-files$}
+        $endif$
+    $endif$
+
+    $if(biblatex)$
+        \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+    $endif$
+
+    $for(include-after)$
+        $include-after$
+    $endfor$
+
+\end{document}
