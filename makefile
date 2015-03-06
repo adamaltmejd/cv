@@ -7,9 +7,9 @@ MEXT = md
 ## All markdown files in the working directory
 SRC = $(wildcard *.$(MEXT))
 
-PDFS=$(SRC:.md=.pdf)
-HTML=$(SRC:.md=.html)
-TEX=$(SRC:.md=.tex)
+PDFS=$(SRC:.$(MEXT)=.pdf)
+HTML=$(SRC:.$(MEXT)=.html)
+TEX=$(SRC:.$(MEXT)=.tex)
 
 all:	$(PDFS)
 
@@ -39,6 +39,9 @@ tex:	clean $(TEX)
 
 %.pdf:	%.tex
 	latexmk -xelatex $<
+	git add $@ $(SRC)
+	git commit -m "CV makefile auto commit."
+	git push
 
 clean:
 	rm -f *.html *.pdf *.tex *.aux *.log
