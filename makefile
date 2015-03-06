@@ -1,6 +1,5 @@
 # Makefile for Adam Altmejd's resume
-# TODO:
-# - add bibliography support
+# Automatically commits and pushes changes to git repo.
 
 ## Markdown extension (e.g. md, markdown, mdown).
 MEXT = md
@@ -12,7 +11,7 @@ PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 TEX=$(SRC:.md=.tex)
 
-all:	$(PDFS) $(HTML) $(TEX)
+all:	$(PDFS)
 
 pdf:	clean $(PDFS)
 html:	clean $(HTML)
@@ -38,17 +37,8 @@ tex:	clean $(TEX)
 		--standalone \
 		--output $@ $<
 
-%.pdf:	%.md
-	sh ./vc -m
-	pandoc \
-		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
-		--to latex \
-		--latex-engine=xelatex \
-		--template=cv.template \
-		--smart \
-		--variable=vc-git \
-		--standalone \
-		--output $@ $<
+%.pdf:	%.tex
+	latexmk -xelatex $<
 
 clean:
 	rm -f *.html *.pdf *.tex *.aux *.log
