@@ -44,4 +44,4 @@ tex:	clean $(TEX)
 	git push
 
 clean:
-	rm -f *.html *.pdf *.tex *.aux *.log
+	rm -f *.html *.pdf *.tex *.aux *.log *.fls *.out *.fdb_latexmk
