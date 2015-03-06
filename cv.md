@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 author: Adam Altmejd
 email: 'adam@altmejd.se'
-keywords: 'CV, Curriculum Vitae, Resume, Adam Altmejd'
+keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
 description: 'Hej'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
