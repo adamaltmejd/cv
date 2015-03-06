@@ -162,7 +162,7 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 Swedish (native), English (fluent), French (good), Polish (good)
 
 ### Computer Skills    
-Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite, programming in Python, SQL, Web Design with HTML5, CSS, SASS, Twitter Bootstrap etc.
+Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite. Programming in Python, SQL, LaTeX. Web Design with HTML5, CSS, SASS, Twitter Bootstrap.
 
 ### Interests
 Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
