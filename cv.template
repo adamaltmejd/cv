@@ -1,14 +1,10 @@
 % !TEX TS-program = xelatex
 % !TEX encoding = UTF-8 Unicode
 % Adam Altmejd's CV template for use with XeLaTeX
-% Inspired by Kieran Healy (https://github.com/kjhealy) pandoc-templates and Vita
+% Inspired by
+%   Kieran Healy's <https://github.com/kjhealy> pandoc-templates and Vita
+%   ModernCV <https://www.ctan.org/pkg/moderncv>
 
-% TODO:
-% - Add support for VC package
-% - Layout
-% - Clean up and organize
-
-%\RequirePackage[l2tabu,orthodox]{nag}
 \documentclass[a4paper,11pt,article,oneside,openany]{memoir}
 \usepackage{fontspec}
 \usepackage{polyglossia}\setmainlanguage[variant=american]{english}
@@ -29,7 +25,7 @@ $endif$
 \usepackage{upquote} % for straight quotes in verbatim
 \usepackage[english=american]{csquotes}
 \usepackage{microtype} % Only protrusion available in XeTeX
-%\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 \usepackage[hyperref,svgnames]{xcolor}
 \usepackage{url}
 \usepackage{fontawesome} % for fontawesome fonts!
@@ -136,33 +132,12 @@ $endif$
 
 % ============================ SECTIONS =======================================
 
-%\titleformat{hcommandi}[hshapei]{hformati}{hlabeli}{hsepi}{hbefore-codei}[hafter-codei]
-%\titlespacing*{hcommandi}{hlefti}{hbefore-sepi}{hafter-sepi}[hright-sepi]
-
-%\titleformat{\subsection}[block]{\Large\sffamily}{\thesection}{0pt}{\titlerule\\}
-%\titlespacing*{\subsection}{-1.5\marginparwidth}{0pt}{0pt}
-
-\titleformat{\subsection}%
-    [block]% shape
-    {\Large\sffamily\bfseries}% format
-    {}% label {\llap{\hspace*{-\mylen}\thesection\hfill}}% label
-    {0 em}% sep
-    {%
-        \hspace*{-0.6\desclen}%
-        \color{brandsuccess}{\rule[-1 pt]{0.55\desclen}{0.17 cm}}%
-        \hspace*{0.05\desclen}%
-    ‎}% before-code
-    [] % after-code
-
-%\rule[depth]{width}{height}
-%\makebox[width][pos]{text}
-%\makebox[\linewidth][l]{\hspace*{-\mylen}\rule{\dimexpr\textwidth+\mylen\relax}{1pt}}
-
-
+\titleformat{\subsection}[block]{\Large\sffamily\bfseries}%
+    {\thesubsection}{0 pt}%
+    {\hspace*{-0.6\desclen}%
+        \color{brandsuccess}{\rule[0 pt]{0.55\desclen}{0.17 cm}}%
+        \hspace*{0.05\desclen}‎}
 \titlespacing*{\subsection}{0pt}{*3}{0pt}
-
-%before={\bigskip\leavevmode\blackrule[width=22mm, color=rulecolor]\hspace}
-
 \titleformat{\subsubsection}[block]{\normalsize\sffamily}{\thesubsection}{0pt}{}
 \titlespacing*{\subsubsection}{0pt}{*2}{0pt}
 
