@@ -19,28 +19,23 @@ address:
     country: 'Sweden'
 ---
 
+
 ## Education
 
 2013--2018 (expected)
-:   __Ph.D in Economics__\
-    Stockholm School of Economics, Sweden\
-    Supervisor: Tore Ellingsen\
-    105 ECTS coursework\
-    Average grade: Pass with distinction
+:   __Ph.D in Economics__, Stockholm School of Economics, Sweden
+
+    Supervisor: Tore Ellingsen. 105 ECTS coursework. Average grade: Pass with distinction.
 
 2012
-:   __M.Sc in Economics__, Stockholm School of Economics 
+:   __M.Sc in Economics__, Stockholm School of Economics
 
-     Unfinished, early admission to Ph.D program\
-     GPA 4.50/5
+     Unfinished, early admission to Ph.D program. GPA 4.50/5
 
 2008--2012
-:   __B.Sc in Business & Economics__, Stockholm School of Economics 
+:   __B.Sc in Business & Economics__, Stockholm School of Economics
 
-    Major: Economics, minor: accounting\
-    Exchange studies fall 2011 at Thammasat University, Bangkok\
-    Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”\
-    GPA 3.75/5
+    Major: Economics. Exchange studies during fall 2011 at Thammasat University in Bangkok, Thailand. Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”. GPA 3.75/5
 
 2008
 :   __Art History__, Stockholm University, Sweden
@@ -55,35 +50,25 @@ address:
 2004--2007
 :   __Senior High School__, Natural Science, Katedralskolan, Lund, Sweden
 
-    Awarded scolarship for excellent performance in math/physics\
-    Top 20 in national physics competition\
-    Science project used as pilot study at Lund University Cognitive Science\
-    GPA 20/20
+    Awarded scolarship for excellent performance in math/physics. Top 20 in national physics competition. Science project used as pilot study at Lund University Cognitive Science. GPA 20/20
 
 
 ## Research
 
-&nbsp;
-:   __Choosing Money__
+### Choosing Money
+Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modelling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
 
-    Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modelling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
+We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and treat subjects in key dimensions. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
 
-    We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and treat subjects in key dimensions. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
+### Prediction Markets for Science
+In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study replicability and quality of research. Currently working on a market on replication of studies in behavioral economics. Joint with, among others, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
 
-&nbsp;
-:   __Prediction Markets for Science__
+### Evolution of preferences for ambiguity
+Joint project with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033)
 
-    In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study replicability and quality of research. Currently working on a market on replication of studies in behavioral economics. Joint with, among others, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
+### Games with *unknown unknowns*
+*Add information about project*
 
-&nbsp;
-:   __Evolution of preferences for ambiguity__
-
-    Joint project with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033)
-
-&nbsp;
-:   __Games with *unknown unknowns*__
-
-    *Add information about project*
 
 ## Teaching Experience
 
@@ -112,22 +97,15 @@ Fall 2012
 
 ## References
 
-
-&nbsp;
-:   __Professor Tore Ellingsen__
-
-    Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+### Professor Tore Ellingsen
+Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
 
 
-&nbsp;
-:   __Professor Jörgen Weibull__
+### Professor Jörgen Weibull
+Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 
-    Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
-
-&nbsp;
-:   __Professor Magnus Johannesson__
-
-    <magnus.johannesson@hhs.se> • +46-8-736 94 43
+### Professor Magnus Johannesson
+<magnus.johannesson@hhs.se> • +46-8-736 94 43
 
 
 ## Work Experience
@@ -153,6 +131,7 @@ Fall 2012
     Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
 
     Responsible for all running operations in the Student Association, with about 300 active students in 30-50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
+
 
 ## Other Qualifications
 
@@ -180,17 +159,11 @@ Fall 2012
 
 ## Skills and Interests
 
-&nbsp;
-:   __Spoken Languages__
-    
-    Swedish (native), English (fluent), French (good), Polish (good)
+### Spoken Languages    
+Swedish (native), English (fluent), French (good), Polish (good)
 
-&nbsp;
-:   __Computer Skills__
-    
-    Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite, programming in Python, SQL, Web Design with HTML5, CSS, SASS, Twitter Bootstrap etc.
+### Computer Skills    
+Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite, programming in Python, SQL, Web Design with HTML5, CSS, SASS, Twitter Bootstrap etc.
 
-&nbsp;
-:   __Interests__
-
-    Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
+### Interests
+Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
