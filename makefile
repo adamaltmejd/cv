@@ -27,6 +27,7 @@ tex:	clean $(TEX)
 		--output $@ $<
 
 %.tex:	%.md
+	sh ./vc -m
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--to latex \
@@ -38,6 +39,7 @@ tex:	clean $(TEX)
 		--output $@ $<
 
 %.pdf:	%.md
+	sh ./vc -m
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--to latex \
@@ -49,4 +51,4 @@ tex:	clean $(TEX)
 		--output $@ $<
 
 clean:
-	rm -f *.html *.pdf *.tex
+	rm -f *.html *.pdf *.tex *.aux *.log
