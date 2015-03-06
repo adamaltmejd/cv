@@ -14,7 +14,7 @@ address:
     affiliation: 'Department of Economics'
     online: 'https://www.hhs.se/en/Research/Departments/DE/'
     main: 'Stockholm School of Economics'
-    box: 'Box 6501'
+    box: 'P.O. Box 6501'
     city: '113 83 Stockholm'
     country: 'Sweden'
 ---
@@ -61,13 +61,13 @@ Valuation of fiat money is universal today. Choosing to hold intrinsically worth
 We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and treat subjects in key dimensions. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
 
 ### Prediction Markets for Science
-In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study replicability and quality of research. Currently working on a market on replication of studies in behavioral economics. Joint with, among others, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
+In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study beliefs in replicability and quality of research. Currently working on a market on replicability in behavioral economics. Joint with, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) among others (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
 
 ### Evolution of preferences for ambiguity
 Joint with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033), we explore evolutionary stability of ambiguity-contingent preferences in different settings.
 
 ### Games with *unknown unknowns*
-Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014) I study the effect of knowledge of personal unawareness in strategic settings. 
+Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014) I study the effect of knowledge of one's own unawareness of possible states in strategic environments. 
 
 
 ## Teaching Experience
@@ -75,12 +75,12 @@ Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014) I study 
 Fall 2014
 :   __Mathematics I, PhD__
 
-    Teaching Assistant for Professor Jörgen Weibull
+    Teaching Assistant for Professor Jörgen Weibull in an introductory math course for Economics PhD's. Mainly topology, set theory and some optimization.
 
 Fall 2012
 :   __Microeconomics, Undergraduate__
 
-    Teaching Assistant for Professor Richard Friberg
+    Teaching Assistant for Professor Richard Friberg in the introductory Microeconomics course for BSc. students.
 
 ## Awards
 
@@ -113,7 +113,7 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 2013
 :   __Summer Associate, JKL__
 
-    Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
+    Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
 
 2012--2013
 :   __Business Development Intern, Spotify__
@@ -126,11 +126,11 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
     Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events, etc.
 
 2010--2011
-:   __Vice President__ Student Association at SSE
+:   __Vice President__ [Student Association at SSE](http://www.sasse.se)
 
     Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
 
-    Responsible for all running operations in the Student Association, with about 300 active students in 30-50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
+    Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
 
 
 ## Other Qualifications
@@ -138,23 +138,22 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 2014--2015
 :   __Member of the board of the SSE Alumni Association__
 
-    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
+    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties [online](http://hhskamratforening.se/). 
 
 2009--2015
 :   __Member of the Council and Board of Directors of the SSE Student Association__
 
-    Elected to the Student Council for three periods, 2009-2010, 2011-2012, and 2014-2015
-    Elected member of the Board of Directors of the Student Association during 2012-2013 and 2013-2014.
+    Elected to the Student Council for three periods, 2009--2010, 2011--2012, and 2014-2015. Elected member of the Board of Directors of the Student Association during 2012--2013 and 2013--2014.
 
 2008--2013
 :   __Various voluntary projects within the Student Association at SSE__
 
-    Head of Communication for Handelsdagarna 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for M2:2009, a career fair focused on the communication business.
+    Head of Communication for Handelsdagarna 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for M2:2009, a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
 
 2011
 :   __Stureakademin__
 
-    Course arranged by Timbro (Swedish think-tank) in writing, ideology, public opinion and policy-making. Best final essay awarded scholarship to participate in course arranged by IHS (Washington DC).
+    Course arranged by Timbro (Swedish think-tank) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the Institute for Humane Studies in Washington DC.
 
 
 ## Skills and Interests
