@@ -1,31 +1,30 @@
 # Makefile for Adam Altmejd's resume
-# Automatically commits and pushes changes to git repo.
 
 ## Markdown extension (e.g. md, markdown, mdown).
-MEXT = md
 
 ## All markdown files in the working directory
-SRC = $(wildcard *.$(MEXT))
+SRC = index.md
 
-PDFS=$(SRC:.$(MEXT)=.pdf)
-HTML=$(SRC:.$(MEXT)=.html)
-TEX=$(SRC:.$(MEXT)=.tex)
+PDF = $(SRC:.md=.pdf)
+HTML = standalone.html
+TEX = $(SRC:.md=.tex)
 
-all:	$(PDFS)
+all:	$(HTML) $(PDF)
 
-pdf:	clean $(PDFS)
-html:	clean $(HTML)
-tex:	clean $(TEX)
+pdf:	$(PDF)
+html:	$(HTML)
+tex:	$(TEX)
 
-%.html:	%.md
+standalone.html: $(SRC)
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--to html5 \
 		--standalone \
 		--section-divs \
 		--output $@ $<
+	git add $@
 
-%.tex:	%.md
+%.tex: $(SRC)
 	sh ./vc -m
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
@@ -37,10 +36,11 @@ tex:	clean $(TEX)
 		--standalone \
 		--output $@ $<
 
-%.pdf:	%.tex
+%.pdf: $(TEX)
 	latexmk -xelatex $<
-	rm *.tex *.aux *.log *.fls *.out *.fdb_latexmk
-	git add $@ $(SRC)
+
+git:
+	git add $(SRC) $(PDF) $(HTML)
 	git commit -m "CV makefile auto commit."
 	git push
 
