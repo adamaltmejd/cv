@@ -1,13 +1,11 @@
 # Makefile for Adam Altmejd's resume
 
-## Markdown extension (e.g. md, markdown, mdown).
-
-## All markdown files in the working directory
+## Source and output files
+# I use index.md so that Jekyll produces index.html automatically.
 SRC = index.md
-
-PDF = $(SRC:.md=.pdf)
-HTML = standalone.html
-TEX = $(SRC:.md=.tex)
+PDF = cv.pdf
+HTML = cv.html
+TEX = cv.tex
 
 all:	$(HTML) $(PDF)
 
@@ -15,7 +13,7 @@ pdf:	$(PDF)
 html:	$(HTML)
 tex:	$(TEX)
 
-standalone.html: $(SRC)
+$(HTML): $(SRC)
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--to html5 \
@@ -24,7 +22,7 @@ standalone.html: $(SRC)
 		--output $@ $<
 	git add $@
 
-%.tex: $(SRC)
+$(TEX): $(SRC)
 	sh ./vc -m
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
@@ -36,7 +34,7 @@ standalone.html: $(SRC)
 		--standalone \
 		--output $@ $<
 
-%.pdf: $(TEX)
+$(PDF): $(TEX)
 	latexmk -xelatex $<
 
 git:
