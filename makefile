@@ -36,6 +36,7 @@ $(TEX): $(SRC)
 
 $(PDF): $(TEX)
 	latexmk -xelatex $<
+	rm -f *.tex *.aux *.log *.fls *.out *.fdb_latexmk
 
 git:
 	git add $(SRC) $(PDF) $(HTML)
