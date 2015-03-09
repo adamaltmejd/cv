@@ -39,6 +39,7 @@ tex:	clean $(TEX)
 
 %.pdf:	%.tex
 	latexmk -xelatex $<
+	rm *.tex *.aux *.log *.fls *.out *.fdb_latexmk
 	git add $@ $(SRC)
 	git commit -m "CV makefile auto commit."
 	git push
