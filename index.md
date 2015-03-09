@@ -25,22 +25,20 @@ address:
 2013--2018 (expected)
 :   __Ph.D in Economics__, Stockholm School of Economics, Sweden
 
-    Supervisor: Tore Ellingsen. 105 ECTS coursework. Average grade: Pass with distinction.
+    Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
 2012
 :   __M.Sc in Economics__, Stockholm School of Economics
 
-     Unfinished, early admission to Ph.D program. GPA 4.50/5
+     Unfinished, early admission to Ph.D program.
 
 2008--2012
 :   __B.Sc in Business & Economics__, Stockholm School of Economics
 
-    Major: Economics. Exchange studies during fall 2011 at Thammasat University in Bangkok, Thailand. Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”. GPA 3.75/5
+    Major: Economics. Exchange studies during fall 2011 at Thammasat University in Bangkok, Thailand. Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”.
 
 2008
 :   __Art History__, Stockholm University, Sweden
-
-    GPA 4.00/5
 
 2007
 :   __French language and culture__, Cours de Civilisation Francaise, Sorbonne, Paris
@@ -50,7 +48,7 @@ address:
 2004--2007
 :   __Senior High School__, Natural Science, Katedralskolan, Lund, Sweden
 
-    Awarded scolarship for excellent performance in math/physics. Top 20 in national physics competition. Science project used as pilot study at Lund University Cognitive Science. GPA 20/20
+    Awarded scolarship for excellent performance in math/physics. Top 20 in national physics competition. Science project used as pilot study at Lund University Cognitive Science.
 
 
 ## Research
