@@ -62,10 +62,10 @@ We seek to provide an explanation to the universality of money by experimentally
 In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study beliefs in replicability and quality of research. Currently working on a market on replicability in behavioral economics. Joint with, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) among others (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
 
 ### Evolution of preferences for ambiguity
-Joint with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033), we explore evolutionary stability of ambiguity-contingent preferences in different settings.
+Recently, theories of games with Knightian uncertainty, or ambiguity have been developed. In a multiple prior setting with smooth ambiguity, we explore evolutionary stability of ambiguity-contingent preferences in different types of games. Could optimistic agents have an persistent advantage in certain settings? Joint work with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033).
 
 ### Games with *unknown unknowns*
-Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014) I study the effect of knowledge of one's own unawareness of possible states in strategic environments. 
+Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states in strategic environments. I merge their models and allow for conscious unawareness also in a one-shot game.
 
 
 ## Teaching Experience
