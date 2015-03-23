@@ -9,10 +9,6 @@ TEX = cv.tex
 
 all:	$(HTML) $(PDF)
 
-pdf:	$(PDF)
-html:	$(HTML)
-tex:	$(TEX)
-
 $(HTML): $(SRC)
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
