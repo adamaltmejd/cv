@@ -132,14 +132,17 @@ $endif$
 
 % ============================ SECTIONS =======================================
 
-\titleformat{\subsection}[block]{\Large\sffamily\bfseries}%
-    {\thesubsection}{0 pt}%
+% SECTIONS (e.g. "Education", "Research")
+\titleformat{\section}[block]{\Large\sffamily\bfseries}%
+    {\thesection}{0 pt}%
     {\hspace*{-0.6\desclen}%
         \color{brandsuccess}{\rule[0 pt]{0.55\desclen}{0.17 cm}}%
         \hspace*{0.05\desclen}‎}
-\titlespacing*{\subsection}{0pt}{*3}{0pt}
-\titleformat{\subsubsection}[block]{\normalsize\sffamily}{\thesubsection}{0pt}{}
-\titlespacing*{\subsubsection}{0pt}{*2}{0pt}
+\titlespacing*{\section}{0pt}{*3}{0pt}
+\titleformat{\subsection}[block]{\normalsize\sffamily}{\thesection}{0pt}{}
+\titlespacing*{\subsection}{0pt}{*2}{0pt}
+
+% SUBSECTIONS
 
 % =============================================================================
 % ============================ BEGIN DOCUMENT =================================

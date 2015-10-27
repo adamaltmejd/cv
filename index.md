@@ -26,6 +26,7 @@ address:
 :   __Ph.D in Economics__, Stockholm School of Economics, Sweden
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
+    Visiting student at Stanford University taking graduate level classes at the Statistics Department (summer 2015).
 
 2012
 :   __M.Sc in Economics__, Stockholm School of Economics
@@ -70,27 +71,27 @@ Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study
 
 ## Teaching Experience
 
-Fall 2014
+2014, 2015
 :   __Mathematics I, PhD__
 
-    Teaching Assistant for Professor Jörgen Weibull in an introductory math course for Economics PhD's. Mainly topology, set theory and some optimization.
+    Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics for PhD. students in Economics and Finance. Real analysis, topology, optimization and set theory.
 
-Fall 2012
+2012
 :   __Microeconomics, Undergraduate__
 
-    Teaching Assistant for Professor Richard Friberg in the introductory Microeconomics course for BSc. students.
+    Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
 
 ## Awards
 
 2014
 :   __Hedelius Research Fellowship__
 
-    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University
+    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University (to be attended in fall 2016).
 
 2013
 :   __SASSE Scholarship__
 
-    Awarded SEK 85 000 from the Student Association at SSE for summer studies at Stanford University
+    Awarded SEK 85 000 from the Student Association at SSE for graduate studies at Stanford University.
 
 
 ## References
@@ -98,12 +99,11 @@ Fall 2012
 ### Professor Tore Ellingsen
 Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
 
-
 ### Professor Jörgen Weibull
 Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 
 ### Professor Magnus Johannesson
-<magnus.johannesson@hhs.se> • +46-8-736 94 43
+<magnus.johannesson@hhs.se> • +46 8 736 94 43
 
 
 ## Work Experience
@@ -156,11 +156,11 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 
 ## Skills and Interests
 
-### Spoken Languages    
+### Spoken Languages
 Swedish (native), English (fluent), French (good), Polish (good)
 
-### Computer Skills    
-Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite. Programming in Python, SQL, LaTeX. Web Design with HTML5, CSS, SASS, Twitter Bootstrap.
+### Computer Skills
+Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite. Programming in Python, SQL, LaTeX. Web Design with HTML, CSS, SASS, Twitter Bootstrap.
 
 ### Interests
 Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
