@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: cv_layout
 title: Curriculum Vitae
 author: Adam Altmejd
 email: 'adam@altmejd.se'
