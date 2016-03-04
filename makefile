@@ -7,11 +7,16 @@ PDF = cv.pdf
 HTML = cv.html
 TEX = cv.tex
 
+CSL = cv.csl
+BIB = publications.bib
+
 all:	$(HTML) $(PDF)
 
 $(HTML): $(SRC)
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
+		--bibliography=$(BIB) \
+		--csl=$(CSL) \
 		--to html5 \
 		--standalone \
 		--section-divs \
@@ -24,6 +29,8 @@ $(TEX): $(SRC)
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--to latex \
 		--latex-engine=xelatex \
+		--bibliography=$(BIB) \
+		--csl=$(CSL) \
 		--template=cv.template \
 		--smart \
 		--variable=vc-git \

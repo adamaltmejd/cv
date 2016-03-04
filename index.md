@@ -26,7 +26,7 @@ address:
 :   __Ph.D in Economics__, Stockholm School of Economics, Sweden
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
-    Visiting student at Stanford University taking graduate level classes at the Statistics Department (summer 2015).
+    Visiting student at Stanford University Department of Statistics (summer 2015).
 
 2012
 :   __M.Sc in Economics__, Stockholm School of Economics
@@ -51,19 +51,26 @@ address:
 
     Awarded scolarship for excellent performance in math/physics. Top 20 in national physics competition. Science project used as pilot study at Lund University Cognitive Science.
 
+## Publications
 
-## Research
+2016
+:   [@Camerer2016]
+
+2015
+:   [@Munafo2015]
+
+## Current projects
 
 ### Choosing Money
-Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modelling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
+Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modeling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
 
-We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and treat subjects in key dimensions. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
+We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and study how financial restrictions motivate agents to use money. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
 
-### Prediction Markets for Science
-In several different projects, we study how prediction markets can be used to ameliorate the scientific process. By eliciting private information, prediction markets allow us to study beliefs in replicability and quality of research. Currently working on a market on replicability in behavioral economics. Joint with, [Magnus Johannesson](http://www.hhs.se/en/person/?PersonID=1981033) and [Anna Dreber Almenberg](http://www.hhs.se/en/person/?PersonID=12741033) among others (a complete list of contributors is available [online](http://www.sciencepredictionmarkets.com)).
+### Predicting Replication
+In a follow-up to Camerer et. al. (2016), I use machine learning techniques to study what features are important to predict replication. 
 
 ### Evolution of preferences for ambiguity
-Recently, theories of games with Knightian uncertainty, or ambiguity have been developed. In a multiple prior setting with smooth ambiguity, we explore evolutionary stability of ambiguity-contingent preferences in different types of games. Could optimistic agents have an persistent advantage in certain settings? Joint work with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033).
+Recently, theories of games with Knightian uncertainty, or ambiguity have been developed. Assuming neo-additive capacities and using the Chateauneuf et. al. (2007) model, we explore evolutionary stability of ambiguity-contingent preferences in different types of games. Could optimistic agents have an persistent and stable advantage in certain settings? Joint work with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033).
 
 ### Games with *unknown unknowns*
 Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states in strategic environments. I merge their models and allow for conscious unawareness also in a one-shot game.
