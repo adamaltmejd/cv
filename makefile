@@ -15,10 +15,10 @@ all:	$(HTML) $(PDF)
 $(HTML): $(SRC)
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
+		--smart \
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--to html5 \
-		--standalone \
 		--section-divs \
 		--output $@ $<
 	git add $@

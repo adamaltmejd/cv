@@ -4,7 +4,7 @@ title: Curriculum Vitae
 author: Adam Altmejd
 email: 'adam@altmejd.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
-description: 'Hej'
+description: 'The Curriculum Vitae of Adam Altmejd, PhD. Student in Economics.'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
