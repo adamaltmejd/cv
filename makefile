@@ -44,7 +44,7 @@ $(PDF): $(TEX)
 	latexmk -xelatex $<
 	rm -f *.tex *.aux *.log *.fls *.out *.fdb_latexmk
 
-git:
+git: $(HTML) $(PDF)
 	git add $(SRC) $(PDF) $(HTML)
 	git commit -m "CV makefile auto commit."
 	git push
