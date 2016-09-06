@@ -23,33 +23,40 @@ address:
 ## Education
 
 2013--2018 (expected)
-:   __Ph.D in Economics__, Stockholm School of Economics, Sweden
+:   __Ph.D in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
-    Visiting student at Stanford University Department of Statistics (summer 2015).
 
-2012
-:   __M.Sc in Economics__, Stockholm School of Economics
+    Associate of the Department of Economics at Harvard (2016/2017), visiting Prof. David Laibson.
 
-     Unfinished, early admission to Ph.D program.
+    Visiting graduate student at Stanford University Department of Statistics (summer 2015).
+
+2012--2016
+:   __M.Sc in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/)
+
+     MSc-PhD parallel enrollment.
 
 2008--2012
-:   __B.Sc in Business & Economics__, Stockholm School of Economics
+:   __B.Sc in Business & Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-    Major: Economics. Exchange studies during fall 2011 at Thammasat University in Bangkok, Thailand. Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”.
+    Exchange studies during fall 2011 at Thammasat University. 
+
+    Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”.
 
 2008
 :   __Art History__, Stockholm University, Sweden
 
 2007
-:   __French language and culture__, Cours de Civilisation Francaise, Sorbonne, Paris
-
-    Advanced level 
+:   __French language and culture__, Cours de Civilisation Francaise, Sorbonne, Paris, Advanced level 
 
 2004--2007
 :   __Senior High School__, Natural Science, Katedralskolan, Lund, Sweden
 
-    Awarded scolarship for excellent performance in math/physics. Top 20 in national physics competition. Science project used as pilot study at Lund University Cognitive Science.
+    Awarded scolarship for excellent performance in math/physics. 
+
+    Top 20 in national physics competition. 
+
+    Degree science project used as pilot study at Lund University Cognitive Science.
 
 ## Publications
 
@@ -75,7 +82,6 @@ Recently, theories of games with Knightian uncertainty, or ambiguity have been d
 ### Games with *unknown unknowns*
 Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states in strategic environments. I merge their models and allow for conscious unawareness also in a one-shot game.
 
-
 ## Teaching Experience
 
 2014, 2015
@@ -93,24 +99,24 @@ Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study
 2014
 :   __Hedelius Research Fellowship__
 
-    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University (to be attended in fall 2016).
+    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University.
 
 2013
 :   __SASSE Scholarship__
 
-    Awarded SEK 85 000 from the Student Association at SSE for graduate studies at Stanford University.
+    Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
 
 
 ## References
 
-### Professor Tore Ellingsen
+### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
 Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
 
-### Professor Jörgen Weibull
-Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
+### Professor [Jörgen Weibull](https://sites.google.com/site/joergenweibull/)
+Secondary Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 
-### Professor Magnus Johannesson
-<magnus.johannesson@hhs.se> • +46 8 736 94 43
+### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
+Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 
 
 ## Work Experience
@@ -128,7 +134,7 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
 2011--2012 
 :   __Intern__, [Prime](http://www.primegroup.com/)
 
-    Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events, etc.
+    Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events.
 
 2010--2011
 :   __Vice President__, [Student Association at SSE](http://www.sasse.se)
@@ -146,19 +152,19 @@ Second Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
     The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties. 
 
 2009--2015
-:   __Member of the Council and Board of Directors of the SSE Student Association__
+:   __Member of the Council and Board of Directors of the [SSE Student Association](https://www.sasse.se/)__
 
     Elected to the Student Council for three periods, 2009--2010, 2011--2012, and 2014-2015. Elected member of the Board of Directors of the Student Association during 2012--2013 and 2013--2014.
 
 2008--2013
-:   __Various voluntary projects within the Student Association at SSE__
+:   __Various voluntary projects within the [Student Association at SSE](https://www.sasse.se/)__
 
-    Head of Communication for Handelsdagarna 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for M2:2009, a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
+    Head of Communication for [Handelsdagarna](http://handelsdagarna.sasse.se/) 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for [M2:2009](http://www.m2.sasse.se/), a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
 
 2011
-:   __Stureakademin__
+:   __[Stureakademin](http://stureakademin.se/)__
 
-    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the Institute for Humane Studies in Washington DC.
+    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the [Institute for Humane Studies](https://theihs.org/) in Washington DC.
 
 
 ## Skills and Interests

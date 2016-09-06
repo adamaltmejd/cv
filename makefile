@@ -11,6 +11,9 @@ CSL = cv.csl
 BIB = publications.bib
 
 all:	$(HTML) $(PDF)
+tex: 	$(TEX)
+pdf:	$(PDF)
+html:	$(HTML)
 
 $(HTML): $(SRC)
 	pandoc \
