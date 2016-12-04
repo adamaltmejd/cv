@@ -104,8 +104,9 @@ $endif$
 
 \SetLabelAlign{parright}{\strut\smash{\parbox[t]{\labelwidth}{\raggedleft#1}}}
 \setlist[description]{
-    style=multiline,
-    nosep,
+    style=multiline, % sets label in parbox in left margin
+    nosep, % kills vspacing
+    mode=boxed,
     labelsep=0.05\desclen,
     leftmargin=0pt,
     labelindent=-\desclen,

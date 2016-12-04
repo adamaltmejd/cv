@@ -68,19 +68,19 @@ address:
 
 ## Current projects
 
+### Predicting Replication
+In a follow-up to Camerer et. al. (2016), I use machine learning techniques to build a model that is better than a market at predicting replication success. I also study which features are most important.
+
 ### Choosing Money
 Valuation of fiat money is universal today. Choosing to hold intrinsically worthless cash is a convention that can be understood as one among many equilibria of some coordination game. Recent macroeconomic frameworks aimed at modeling this behavior do generate monetary economies, but are unable to provide any criteria for equilibrium selection. Hence, while agents can choose money, it is ambiguous if they will.
 
 We seek to provide an explanation to the universality of money by experimentally evaluating how and why fiat money can be valued as an equilibrium selection process. We do this by implementing a version of the Hugget (1993) economy, proposed by Krusell, Mukoyama and Smith (2011) in the lab, and study how financial restrictions motivate agents to use money. Joint with [Siri Isaksson](http://www.hhs.se/en/person/?PersonID=31631033).
 
-### Predicting Replication
-In a follow-up to Camerer et. al. (2016), I use machine learning techniques to study what features are important to predict replication. 
-
 ### Evolution of preferences for ambiguity
 Recently, theories of games with Knightian uncertainty, or ambiguity have been developed. Assuming neo-additive capacities and using the Chateauneuf et. al. (2007) model, we explore evolutionary stability of ambiguity-contingent preferences in different types of games. Could optimistic agents have an persistent and stable advantage in certain settings? Joint work with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033).
 
 ### Games with *unknown unknowns*
-Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states in strategic environments. I merge their models and allow for conscious unawareness also in a one-shot game.
+Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states of the world in strategic environments. I aim to create a simple one-shot model of such decisions and test how important reasoning about one's unawareness is in the lab.
 
 ## Teaching Experience
 
@@ -106,11 +106,18 @@ Inspired by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study
 
     Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
 
+## Presentations
+
+2016
+:   Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
+
+2015
+:   NHH Choice Lab Workshop (Bergen, Norway)
 
 ## References
 
 ### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
-Main Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
 
 ### Professor [Jörgen Weibull](https://sites.google.com/site/joergenweibull/)
 Secondary Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
@@ -173,7 +180,7 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 Swedish (native), English (fluent), French (good), Polish (good)
 
 ### Computer Skills
-Advanced user of PC, Mac, MS-Office, STATA, R, Matlab, Adobe-suite. Programming in Python, SQL, LaTeX. Web Design with HTML, CSS, SASS, Twitter Bootstrap.
+Advanced user of PC, Mac, MS-Office, STATA, Matlab, Adobe-suite. Programming in R, Python, SQL, LaTeX. Web Design with HTML, CSS, SASS, Twitter Bootstrap.
 
 ### Interests
 Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
