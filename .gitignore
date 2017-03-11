@@ -3,6 +3,7 @@
 #*.pdf
 
 ## Core latex/pdflatex auxiliary files:
+*.xdv
 *.aux
 *.lof
 *.log
