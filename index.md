@@ -27,9 +27,9 @@ address:
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
-    Associate of the Department of Economics at Harvard (2016/2017), visiting Prof. David Laibson.
+    Associate of the [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
 
-    Visiting graduate student at Stanford University Department of Statistics (summer 2015).
+    Visiting graduate student at [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
 
 2012--2016
 :   __M.Sc in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/)
@@ -69,13 +69,13 @@ address:
 ## Current projects
 
 ### Predicting Replication
-I use machine learning techniques to build a model that is better than a market at predicting replication success. I also study which features drive this accuracy. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of planned ex ante.
+Together with a number of coauthors, I employ machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. We further study which features drive this accuracy. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
 
-### Evolution of preferences for ambiguity
-Recently, theories of games with Knightian uncertainty, or ambiguity have been developed. Assuming neo-additive capacities and using the Chateauneuf et. al. (2007) model, we explore evolutionary stability of ambiguity-contingent preferences in different types of games. Could optimistic agents have an persistent and stable advantage in certain settings? Joint work with [Thomas Seiler](http://www.hhs.se/en/person/?personid=34461033).
+### Homophily and information avoidance
+There is a vast literature in Psychology and Economics about how we tend to learn selectively, searching for ways to confirm our priors and biases. Using both empirical and experimental data, I study how this type of motivated reasoning affects who we choose to follow and be friends with.
 
-### Games with *unknown unknowns*
-Finding inspiration in theoretical models by Grant and Quiggin (2013) as well as Karni and Vierø (2014), I study the effect of knowledge of one's own unawareness of possible states of the world in strategic environments. I create a simple one-shot model of such decisions and test how important such knowledge is when making choices in the lab.
+### Peer effects in education choice
+Considering its immense, life changing consequences, our choice of which university education to pursue often seems ill-informed. I estimate to what extent our choice of education is affected by our peers, using a unique data set.
 
 ## Teaching Experience
 
@@ -145,6 +145,7 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 
     Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
 
+\pagebreak
 
 ## Other Qualifications
 
