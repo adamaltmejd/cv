@@ -1,21 +1,24 @@
 # Makefile for Adam Altmejd's resume
 
-## Source and output files
-# I use index.md so that Jekyll produces index.html automatically.
-SRC = index.md
-PDF = cv.pdf
-HTML = cv.html
-TEX = cv.tex
+# Apart from latex, gawk and pandoc, needs the following fonts:
+# XITS Math: https://github.com/khaledhosny/xits
+# Operator Mono
+# Gill Sans Std
 
+## Source and output files
+sources := cv.md cv_onepage.md
+targets := cv.pdf cv_onepage.pdf index.md
+
+# Settings
 CSL = cv.csl
 BIB = publications.bib
 
-all:	$(HTML) $(PDF)
-tex: 	$(TEX)
-pdf:	$(PDF)
-html:	$(HTML)
+all: $(targets)
 
-$(HTML): $(SRC)
+index.md: cv.md
+	cp $< $@
+
+%.html: %.md
 	pandoc \
 		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
 		--smart \
@@ -26,28 +29,30 @@ $(HTML): $(SRC)
 		--output $@ $<
 	git add $@
 
-$(TEX): $(SRC)
+%.tex: %.md
 	sh ./vc -m
 	pandoc \
-		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
+		--from markdown+smart+yaml_metadata_block+header_attributes+definition_lists \
 		--to latex \
-		--latex-engine=xelatex \
+		--pdf-engine=xelatex \
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--template=cv.template \
-		--smart \
 		--variable=vc-git \
 		--standalone \
 		--output $@ $<
 
-$(PDF): $(TEX)
+%.pdf: %.tex
 	latexmk -xelatex $<
-	rm -f *.tex *.aux *.log *.fls *.out *.fdb_latexmk
+	rm -f *.tex *.aux *.log *.fls *.out *.fdb_latexmk *.xdv
 
-git: $(HTML) $(PDF)
-	git add $(SRC) $(PDF) $(HTML)
+
+.PHONY: git clean
+
+git:
+	git add $(sources) $(targets)
 	git commit -m "CV makefile auto commit."
 	git push
 
 clean:
-	rm -f *.html *.pdf *.tex *.aux *.log *.fls *.out *.fdb_latexmk
+	rm -f $(targets)

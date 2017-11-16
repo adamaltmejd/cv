@@ -15,37 +15,15 @@ $if(vc-git)$
     \input{vc}
 $endif$
 
-% Package that provides possibility to set spacing.
-$if(linestretch)$
-    \usepackage{setspace}
-    \setstretch{$linestretch$}
-$endif$
-
 \usepackage{unicode-math,amsmath}
 \usepackage{upquote} % for straight quotes in verbatim
 \usepackage[english=american]{csquotes}
-\usepackage{microtype} % Only protrusion available in XeTeX
+\usepackage{microtype} % Only protrusion available in XeTeX (https://tex.stackexchange.com/questions/118713/is-microtype-fully-supported-now-by-xelatex-if-not-how-can-i-keep-myself-up-to)
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 \usepackage[hyperref,svgnames]{xcolor}
 \usepackage{url}
-\usepackage{fontawesome} % for fontawesome fonts!
-\usepackage{enumitem} % for layout of description envs.
-
-$if(graphics)$
-    \usepackage{graphicx}
-    \makeatletter
-    \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-    \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-    \makeatother
-    % Scale images if necessary, so that they will not overflow the page
-    % margins by default, and it is still possible to overwrite the defaults
-    % using explicit options in \includegraphics[width, height, ...]{}
-    \setkeys{Gin}{width=\textwidth,height=\maxheight,keepaspectratio}
-$endif$
-
-% xetex, %should not provide drivers unless necessary
-% unicode=false, % unicode breaks when used with xetex
-% plainpages=false,pdfpagelabels,setpagesize=false,bookmarksnumbered
+\usepackage{fontawesome} % for fontawesome fonts
+\usepackage{enumitem} % for layout of description envs
 \usepackage{hyperref}
 
 % =============================================================================
@@ -54,10 +32,17 @@ $endif$
 
 % ============================ GEOMETRY, SKIPS, ETC. ==========================
 
-\geometry{centering,left=3cm,vscale=0.85}
+\geometry{
+    centering,
+    left=2.5cm,
+    right=2.5cm,
+    top=1.5cm,
+    bottom=1.5cm,
+    vscale=0.85
+}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0pt}
-%\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
 
 \newlength\desclen
 \setlength\desclen{1.5\marginparwidth}
@@ -94,7 +79,7 @@ $endif$
 \defaultfontfeatures{Mapping={tex-text}}
 \setromanfont[Numbers={OldStyle}]{Minion Pro}
 \setsansfont[Colour=brandsuccess]{Gill Sans Std Light}
-\setmonofont[Scale=0.8]{Consolas}
+\setmonofont[Scale=0.8]{Operator Mono Light}
 \setmathfont[Scale=0.8]{XITS Math} % Mathfont needs to be loaded after amsmath
 \newfontface\headerfont[Scale=1.7]{Gill Sans Std Condensed}
 \newfontface\addressblockfont{Gill Sans Std}
@@ -185,12 +170,6 @@ $endif$
             %\href{https://github.com/$github$}{$github$} \, \faGithub
     \end{minipage}
 
-    $if(description)$
-        % \begin{abstract}
-        %     \noindent $description$
-        % \end{abstract}
-    $endif$
-
     \bigskip
 
 % ============================ BODY ===========================================
@@ -198,23 +177,6 @@ $endif$
     $body$
 
 % ============================ FOOTER =========================================
-
-    $if(natbib)$
-        $if(biblio-files)$
-            $if(biblio-title)$
-                $if(book-class)$
-                    \renewcommand\bibname{$biblio-title$}
-                $else$
-                    \renewcommand\refname{$biblio-title$}
-                $endif$
-            $endif$
-        \bibliography{$biblio-files$}
-        $endif$
-    $endif$
-
-    $if(biblatex)$
-        \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
-    $endif$
 
     $for(include-after)$
         $include-after$
