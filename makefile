@@ -56,3 +56,4 @@ git:
 
 clean:
 	rm -f $(targets)
+	rm -f *.tex *.aux *.log *.fls *.out *.fdb_latexmk *.xdv
