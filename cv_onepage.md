@@ -10,7 +10,7 @@ twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
 mobile: '+46 (0) 734 20 01 20'
-address: 
+address:
     affiliation: 'Department of Economics'
     online: 'https://www.hhs.se/en/Research/Departments/DE/'
     main: 'Stockholm School of Economics'
@@ -23,21 +23,19 @@ address:
 ## Education
 
 2013--2018 (expected)
-:   __Ph.D in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
+:   **Ph.D in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
-    Associate of the Department of Economics at Harvard (2016/2017), visiting Prof. David Laibson.
+    Visiting Fellow, [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
 
-    Visiting graduate student at Stanford University Department of Statistics (summer 2015).
+    Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
 
 2012--2016
-:   __M.Sc in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/) MSc-PhD parallel enrollment.
+:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/) MSc-PhD parallel enrollment.
 
 2008--2012
-:   __B.Sc in Business & Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
-
-    Exchange studies at Thammasat University.
+:   **B.Sc in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
 ## Publications
 
@@ -53,37 +51,33 @@ Society. [10.1098/rsos.150287](https://doi.org/10.1098/rsos.150287).
 
 ## Current projects
 
-Predicting Replication with Machine Learning
+Sibling Spill-overs and Education Choice
 
-Evolution of preferences for ambiguity
+Predicting Replication
 
-Strategic interactions with *unknown unknowns*
+Homophily and Information Avoidance
 
 ## Teaching Experience
+2014, 2015
+:   **Math Summer Camp, PhD**
 
 2014, 2015
-:   __Mathematics I, PhD__
-
-    Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics for PhD. students in Economics and Finance. Real analysis, topology, optimization and set theory.
+:   **Teaching Assistant: Mathematics I, PhD**
 
 2012
-:   __Microeconomics, Undergraduate__
-
-    Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
+:   **Teaching Assistant: Microeconomics, BSc**
 
 ## Awards
 
 2014
-:   __Hedelius Research Fellowship__
-
-    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University.
+:   **Hedelius Research Fellowship**, SEK 642 000
 
 2013
-:   __SASSE Scholarship__
-
-    Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
+:   **SASSE Scholarship**, SEK 85 000
 
 ## Presentations
+2017
+:   Harvard Behavioral Lunch (Cambridge, MA)
 
 2016
 :   Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)

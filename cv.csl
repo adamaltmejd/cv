@@ -593,7 +593,7 @@
       </else>
     </choose>
   </macro>
-  <citation hanging-indent="true" et-al-min="20" et-al-use-first="20" subsequent-author-substitute="&#8212;&#8212;&#8212;" entry-spacing="0">
+  <citation hanging-indent="true" et-al-min="3" et-al-use-first="1" subsequent-author-substitute="&#8212;&#8212;&#8212;" entry-spacing="0">
     <sort>
       <key macro="contributors"/>
       <key variable="issued"/>

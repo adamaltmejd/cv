@@ -10,7 +10,7 @@ twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
 mobile: '+46 (0) 734 20 01 20'
-address: 
+address:
     affiliation: 'Department of Economics'
     online: 'https://www.hhs.se/en/Research/Departments/DE/'
     main: 'Stockholm School of Economics'
@@ -23,38 +23,38 @@ address:
 ## Education
 
 2013--2018 (expected)
-:   __Ph.D in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
+:   **Ph.D in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
-    Associate of the [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
+    Visiting Fellow, [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
 
-    Visiting graduate student at [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
+    Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
 
 2012--2016
-:   __M.Sc in Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/)
+:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/)
 
      MSc-PhD parallel enrollment.
 
 2008--2012
-:   __B.Sc in Business & Economics__, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
+:   **B.Sc in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-    Exchange studies during fall 2011 at Thammasat University. 
+    Exchange studies during fall 2011 at Thammasat University.
 
     Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”.
 
 2008
-:   __Art History__, Stockholm University, Sweden
+:   **Art History**, Stockholm University, Sweden
 
 2007
-:   __French language and culture__, Cours de Civilisation Francaise, Sorbonne, Paris, Advanced level 
+:   **French language and culture**, Cours de Civilisation Francaise, Sorbonne, Paris, Advanced level
 
 2004--2007
-:   __Senior High School__, Natural Science, Katedralskolan, Lund, Sweden
+:   **Senior High School**, Natural Science, Katedralskolan, Lund, Sweden
 
-    Awarded scolarship for excellent performance in math/physics. 
+    Awarded scolarship for excellent performance in math/physics.
 
-    Top 20 in national physics competition. 
+    Top 20 in national physics competition.
 
     Degree science project used as pilot study at Lund University Cognitive Science.
 
@@ -68,40 +68,48 @@ address:
 
 ## Current projects
 
+### Sibling Spill-overs and Education Choice
+Considering its immense, life changing consequences, our choice of which university education to pursue often seems ill-informed. I estimate how siblings influence and inspire each others in their choices, using a unique Swedish data set. I also estimate economic returns to fields of study and research how education affects financial decision making.
+
 ### Predicting Replication
-Together with a number of coauthors, I employ machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. We further study which features drive this accuracy. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
+We use machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. We also study which features drive this accuracy. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
 
-### Homophily and information avoidance
+### Homophily and Information Avoidance
 There is a vast literature in Psychology and Economics about how we tend to learn selectively, searching for ways to confirm our priors and biases. Using both empirical and experimental data, I study how this type of motivated reasoning affects who we choose to follow and be friends with.
-
-### Peer effects in education choice
-Considering its immense, life changing consequences, our choice of which university education to pursue often seems ill-informed. I estimate to what extent our choice of education is affected by our peers, using a unique data set.
 
 ## Teaching Experience
 
 2014, 2015
-:   __Mathematics I, PhD__
+:   **Math Summer Camp, PhD**
+
+    Week-long preparatory math course for arriving PhD students in Economics and Finance.
+
+2014, 2015
+:   **Teaching Assistant: Mathematics I, PhD**
 
     Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics for PhD. students in Economics and Finance. Real analysis, topology, optimization and set theory.
 
 2012
-:   __Microeconomics, Undergraduate__
+:   **Teaching Assistant: Microeconomics, BSc**
 
     Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
 
 ## Awards
 
 2014
-:   __Hedelius Research Fellowship__
+:   **Hedelius Research Fellowship**
 
     Awarded SEK 642 000 financing for a visiting scholar position at Harvard University.
 
 2013
-:   __SASSE Scholarship__
+:   **SASSE Scholarship**
 
     Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
 
 ## Presentations
+
+2017
+:   Harvard Behavioral Lunch (Cambridge, MA)
 
 2016
 :   Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
@@ -124,50 +132,48 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 ## Work Experience
 
 2013
-:   __Summer Associate__, [JKL](http://www.jkl.se/)
+:   **Summer Associate**, [JKL](http://www.jkl.se/)
 
     Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
 
 2012--2013
-:   __Business Development Intern__, [Spotify](http://www.spotify.com)
+:   **Business Development Intern**, [Spotify](http://www.spotify.com)
 
     Summer internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Created tools for analysis of partnership performance, to evaluate current results and to create projections for future deals. Greatly improved infrastructure and process for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
 
-2011--2012 
-:   __Intern__, [Prime](http://www.primegroup.com/)
+2011--2012
+:   **Intern**, [Prime](http://www.primegroup.com/)
 
     Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events.
 
 2010--2011
-:   __Vice President__, [Student Association at SSE](http://www.sasse.se)
+:   **Vice President**, [Student Association at SSE](http://www.sasse.se)
 
     Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
 
     Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
 
-\pagebreak
-
 ## Other Qualifications
 
 2014--2015
-:   __Member of the board__, [SSE Alumni Association](http://hhskamratforening.se/)
+:   **Member of the board**, [SSE Alumni Association](http://hhskamratforening.se/)
 
-    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties. 
+    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
 
 2009--2015
-:   __Member of the Council and Board of Directors of the [SSE Student Association](https://www.sasse.se/)__
+:   **Member of the Council and Board of Directors of the [SSE Student Association](https://www.sasse.se/)**
 
     Elected to the Student Council for three periods, 2009--2010, 2011--2012, and 2014-2015. Elected member of the Board of Directors of the Student Association during 2012--2013 and 2013--2014.
 
 2008--2013
-:   __Various voluntary projects within the [Student Association at SSE](https://www.sasse.se/)__
+:   **Various voluntary projects within the [Student Association at SSE](https://www.sasse.se/)**
 
     Head of Communication for [Handelsdagarna](http://handelsdagarna.sasse.se/) 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for [M2:2009](http://www.m2.sasse.se/), a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
 
 2011
-:   __[Stureakademin](http://stureakademin.se/)__
+:   **[Stureakademin](http://stureakademin.se/)**
 
-    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay, to participate in a course arranged by the [Institute for Humane Studies](https://theihs.org/) in Washington DC.
+    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay.
 
 
 ## Skills and Interests
