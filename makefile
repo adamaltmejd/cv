@@ -6,8 +6,9 @@
 # Gill Sans Std
 
 ## Source and output files
+# Because we have citations we need pandoc to build html file (rather than Jekyll)
 sources := cv.md cv_onepage.md
-targets := cv.pdf cv_onepage.pdf index.md
+targets := cv.pdf cv_onepage.pdf cv.html
 
 # Settings
 CSL = cv.csl
@@ -15,19 +16,14 @@ BIB = publications.bib
 
 all: $(targets)
 
-index.md: cv.md
-	cp $< $@
-
 %.html: %.md
 	pandoc \
-		--from markdown+yaml_metadata_block+header_attributes+definition_lists \
-		--smart \
+		--from markdown+smart+yaml_metadata_block+header_attributes+definition_lists \
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--to html5 \
 		--section-divs \
 		--output $@ $<
-	git add $@
 
 %.tex: %.md
 	sh ./vc -m
