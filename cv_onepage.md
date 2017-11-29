@@ -27,6 +27,8 @@ address:
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
+    Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), Fall 2017
+
     Visiting Fellow, [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
 
     Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).

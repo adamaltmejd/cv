@@ -27,36 +27,17 @@ address:
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
+    Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), Fall 2017
+
     Visiting Fellow, [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
 
     Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
 
 2012--2016
-:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/)
-
-     MSc-PhD parallel enrollment.
+:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment.
 
 2008--2012
 :   **B.Sc in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
-
-    Exchange studies during fall 2011 at Thammasat University.
-
-    Bachelor's Thesis: “Marginal Physician Visits and the Diagnostic Case Mix”.
-
-2008
-:   **Art History**, Stockholm University, Sweden
-
-2007
-:   **French language and culture**, Cours de Civilisation Francaise, Sorbonne, Paris, Advanced level
-
-2004--2007
-:   **Senior High School**, Natural Science, Katedralskolan, Lund, Sweden
-
-    Awarded scolarship for excellent performance in math/physics.
-
-    Top 20 in national physics competition.
-
-    Degree science project used as pilot study at Lund University Cognitive Science.
 
 ## Publications
 
@@ -169,12 +150,6 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 :   **Various voluntary projects within the [Student Association at SSE](https://www.sasse.se/)**
 
     Head of Communication for [Handelsdagarna](http://handelsdagarna.sasse.se/) 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for [M2:2009](http://www.m2.sasse.se/), a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
-
-2011
-:   **[Stureakademin](http://stureakademin.se/)**
-
-    Course arranged by [Timbro](http://timbro.se/en) in writing, ideology, public opinion and policy-making. Awarded scholarship for best final essay.
-
 
 ## Skills and Interests
 
