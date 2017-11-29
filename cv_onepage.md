@@ -34,7 +34,7 @@ address:
     Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
 
 2012--2016
-:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/) MSc-PhD parallel enrollment.
+:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment.
 
 2008--2012
 :   **B.Sc in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
