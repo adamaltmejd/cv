@@ -50,13 +50,57 @@ address:
 ## Current projects
 
 ### Sibling Spill-overs and Education Choice
-Considering its immense, life changing consequences, our choice of which university education to pursue often seems ill-informed. I estimate how siblings influence and inspire each others in their choices, using a unique Swedish data set. I also estimate economic returns to fields of study and research how education affects financial decision making.
+
+Considering its immense, life changing consequences, our choice of university education often seems ill-informed. I estimate how siblings influence and inspire each others in their choices, using a unique Swedish data set where identification comes from tie breaking lotteries. I also use this data set to study economic returns to fields of study and how education influences investment and savings decisions.
 
 ### Predicting Replication
-We use machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. We also study which features drive this accuracy. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
+
+I use machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. While statistical properties of the original paper such as its p-value explain most of the variation, certain elements of the expirements' design are also influential. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
+
+### Social Sciences Replication Project
+
+We replicate 21 experimental studies in the social sciences published in Nature and Science in 2010-2015. As in our previous studies, we also run prediction markets to elicit peer beliefs.
 
 ### Homophily and Information Avoidance
-There is a vast literature in Psychology and Economics about how we tend to learn selectively, searching for ways to confirm our priors and biases. Using both empirical and experimental data, I study how this type of motivated reasoning affects who we choose to follow and be friends with.
+
+There is a vast literature in Psychology and Economics about how we learn selectively, searching for ways to confirm our priors and biases. Using economic theory and an experiment, I aim to study how this type of motivated reasoning affects network formation; who we choose to follow and be friends with.
+
+## References
+
+### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
+
+Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+
+### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
+
+Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+
+### Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
+
+Co-Author • <camerer@hss.caltech.edu> • +1 (626 395-4054)
+
+## Awards
+
+2014
+:   **Hedelius Research Fellowship**
+
+    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University.
+
+2013
+:   **SASSE Scholarship**
+
+    Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
+
+## Presentations, Conferences, and Workshops
+
+2018
+:   Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), ENTER Jamboree (Université de Toulouse, France)
+
+2017
+:   Harvard Behavioral Lunch (Cambridge, MA), briq Summer School (Bonn, Germany), SSE Human Capital Workshop (Stockholm, Sweden), SUDSWEC (Stockholm University, Sweden)
+
+2016
+:   NHH Choice Lab Workshop (Bergen, Norway), Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
 
 ## Teaching Experience
 
@@ -75,42 +119,19 @@ There is a vast literature in Psychology and Economics about how we tend to lear
 
     Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
 
-## Awards
+## Other Qualifications
 
-2014
-:   **Hedelius Research Fellowship**
+2016--
+:   **Member of the board**, [Musethica Sweden](https://musethica.org)
 
-    Awarded SEK 642 000 financing for a visiting scholar position at Harvard University.
+    Musethica is an international nonprofit organization that promotes a new approach in teaching classical music performance, integrating a very large number of concerts in to the education program of young excellent artists. The students perform in different social institutions, like kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
 
-2013
-:   **SASSE Scholarship**
+2014--2015
+:   **Member of the board**, [SSE Alumni Association](http://hhskamratforening.se/)
 
-    Awarded SEK 85 000 from the Student Association at SSE for visiting Stanford University.
+    The SSE alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
 
-## Presentations
-
-2017
-:   Harvard Behavioral Lunch (Cambridge, MA)
-
-2016
-:   Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
-
-2015
-:   NHH Choice Lab Workshop (Bergen, Norway)
-
-## References
-
-### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
-Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
-
-### Professor [Jörgen Weibull](https://sites.google.com/site/joergenweibull/)
-Secondary Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
-
-### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
-Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
-
-
-## Work Experience
+## Non-academic Work Experience
 
 2013
 :   **Summer Associate**, [JKL](http://www.jkl.se/)
@@ -118,46 +139,28 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
     Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
 
 2012--2013
-:   **Business Development Intern**, [Spotify](http://www.spotify.com)
+:   **Business Development Analyst Intern**, [Spotify](http://www.spotify.com)
 
-    Summer internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Created tools for analysis of partnership performance, to evaluate current results and to create projections for future deals. Greatly improved infrastructure and process for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
+    Internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Greatly improved infrastructure for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
 
 2011--2012
-:   **Intern**, [Prime](http://www.primegroup.com/)
-
-    Summer internship as public affairs consultant during 2011. Also part-time work during spring 2011, and spring 2012 within different divisions, working with media analysis, research, events.
+:   **Intern**, [Prime PR](http://www.primegroup.com/)
 
 2010--2011
 :   **Vice President**, [Student Association at SSE](http://www.sasse.se)
 
-    Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members, and a yearly turnover of about 15MSEK.
-
-    Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations. Also responsible for the association’s premises and restaurant/bar and the the Senior Society with many well-known SSE alumni as members. Main results include renovated premises, implementation of english as working language, installment of new web portal, and development of a communication strategy.
-
-## Other Qualifications
-
-2014--2015
-:   **Member of the board**, [SSE Alumni Association](http://hhskamratforening.se/)
-
-    The alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
-
-2009--2015
-:   **Member of the Council and Board of Directors of the [SSE Student Association](https://www.sasse.se/)**
-
-    Elected to the Student Council for three periods, 2009--2010, 2011--2012, and 2014-2015. Elected member of the Board of Directors of the Student Association during 2012--2013 and 2013--2014.
-
-2008--2013
-:   **Various voluntary projects within the [Student Association at SSE](https://www.sasse.se/)**
-
-    Head of Communication for [Handelsdagarna](http://handelsdagarna.sasse.se/) 2011, a career fair and the largest project at SSE with a turnover of approximately 2MSEK. Head of Marketing for [M2:2009](http://www.m2.sasse.se/), a career fair focused on the communication business. Also various other extracurricular engagements, such as president of the Art Club (2009) and the Film Club (2011).
+    Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members and a yearly turnover of 15MSEK. Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations.
 
 ## Skills and Interests
 
 ### Spoken Languages
+
 Swedish (native), English (fluent), French (good), Polish (good)
 
 ### Computer Skills
+
 Advanced user of PC, Mac, MS-Office, STATA, Matlab, Adobe-suite. Programming in R, Python, SQL, LaTeX. Web Design with HTML, CSS, SASS, Twitter Bootstrap.
 
 ### Interests
+
 Playing the piano, music, cinema (especially asian and russian), contemporary art and politics

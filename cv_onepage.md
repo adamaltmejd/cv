@@ -57,17 +57,23 @@ Sibling Spill-overs and Education Choice
 
 Predicting Replication
 
+Social Sciences Replication Project
+
 Homophily and Information Avoidance
 
-## Teaching Experience
-2014, 2015
-:   **Math Summer Camp, PhD**
+## References
 
-2014, 2015
-:   **Teaching Assistant: Mathematics I, PhD**
+### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
 
-2012
-:   **Teaching Assistant: Microeconomics, BSc**
+Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+
+### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
+
+Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+
+### Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
+
+Co-Author • <camerer@hss.caltech.edu> • +1 (626 395-4054)
 
 ## Awards
 
@@ -78,22 +84,23 @@ Homophily and Information Avoidance
 :   **SASSE Scholarship**, SEK 85 000
 
 ## Presentations
+
+2018
+:   Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), ENTER Jamboree (Université de Toulouse, France)
+
 2017
-:   Harvard Behavioral Lunch (Cambridge, MA)
+:   Harvard Behavioral Lunch (Cambridge, MA), briq Summer School (Bonn, Germany), SSE Human Capital Workshop (Stockholm, Sweden), SUDSWEC (Stockholm University, Sweden)
 
 2016
-:   Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
+:   NHH Choice Lab Workshop (Bergen, Norway), Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
 
-2015
-:   NHH Choice Lab Workshop (Bergen, Norway)
+## Teaching Experience
 
-## References
+2014, 2015
+:   **Math Summer Camp, PhD**
 
-### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
-Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+2014, 2015
+:   **Teaching Assistant: Mathematics I, PhD**
 
-### Professor [Jörgen Weibull](https://sites.google.com/site/joergenweibull/)
-Secondary Supervisor • <jorgen.weibull@hhs.se> • +46 8 736 92 04
-
-### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
-Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+2012
+:   **Teaching Assistant: Microeconomics, BSc**
