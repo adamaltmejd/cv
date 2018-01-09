@@ -55,7 +55,7 @@ Considering its immense, life changing consequences, our choice of university ed
 
 ### Predicting Replication
 
-I use machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. While statistical properties of the original paper such as its p-value explain most of the variation, certain elements of the expirements' design are also influential. The model could be used as a cheap and efficient tool to aid researchers in evaluating the necessity of running replications ex ante.
+I use machine learning to estimate a model that is more accurate than a prediction market at forecasting replication success of lab experiments. While statistical properties of the original paper such as its p-value explain most of the variation, certain experimental design features are also influential. The model could be used as a cheap tool to aid researchers in evaluating the necessity of running replications ex ante.
 
 ### Social Sciences Replication Project
 
