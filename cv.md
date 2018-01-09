@@ -51,7 +51,7 @@ address:
 
 ### Sibling Spill-overs and Education Choice
 
-Considering its immense, life changing consequences, our choice of university education often seems ill-informed. I estimate how siblings influence and inspire each others in their choices, using a unique Swedish data set where identification comes from tie breaking lotteries. I also use this data set to study economic returns to fields of study and how education influences investment and savings decisions.
+Considering its immense, life changing consequences, our choice of university education often seems ill-informed. I estimate how siblings influence and inspire each others in their choices, using a unique Swedish data set where identification comes from tie breaking lotteries. I also use this data set to study economic returns to fields of study and how education influences investment and savings decisions. To avoid data-mining pitfalls, the study was [pre-registered](https://osf.io/rj6t7/).
 
 ### Predicting Replication
 
