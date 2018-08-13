@@ -41,7 +41,7 @@ $endif$
     vscale=0.85
 }
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0pt}
+\setlength{\parskip}{2pt} % small parskip (margin between paragraphs)
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 
 \newlength\desclen
@@ -63,8 +63,8 @@ $endif$
     linkcolor=brandprimary,
     pdfborder={0 0 0}
     plainpages=false,
-    pdftitle={$if(keywords)$$keywords$$endif$},
-    pdfauthor={$if(keywords)$$keywords$$endif$},
+    pdftitle={$if(title)$$title$$endif$},
+    pdfauthor={$if(author)$$author$$endif$},
     pdfkeywords={$if(keywords)$$keywords$$endif$}
 }
 \urlstyle{same}
@@ -123,7 +123,6 @@ $endif$
 %           12pt is what we would like the spacing to be
 %           plus 4pt means that TeX can stretch it by at most 4pt
 %           minus 2pt means that TeX can shrink it by at most 2pt
-%       This is one example of the concept of, 'glue', in TeX
 
 % SECTIONS (e.g. "Education", "Research")
 \titleformat{\section}[block]{\Large\sffamily\bfseries}%
@@ -131,14 +130,17 @@ $endif$
     {\hspace*{-0.6\desclen}%
         \color{brandsuccess}{\rule[0 pt]{0.55\desclen}{0.17 cm}}%
         \hspace*{0.05\desclen}‎}
-\titlespacing*{\section}{0pt}{*3}{0pt}
+\titlespacing*{\section}{0pt}{*3}{-\parskip}
 
 % SUBSECTIONS
 \titleformat{\subsection}[block]{\Large\sffamily}{\thesection}{0pt}{}
-\titlespacing*{\subsection}{0pt}{*2}{0pt}
+\titlespacing*{\subsection}{0pt}{*2}{-\parskip}
 
 % SUBSUBSECTIONS
 \titlespacing{\subsubsection}{0pt}{0pt}{-\parskip}
+
+% Check and fix the layout (memoir)
+%\checkandfixthelayout
 
 % =============================================================================
 % ============================ BEGIN DOCUMENT =================================
