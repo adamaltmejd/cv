@@ -66,11 +66,11 @@ address:
 
 ## References
 
-Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se>
 
-Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se>
 
-Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-Author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
+Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-Author • <camerer@hss.caltech.edu>
 
 ## Awards and Grants
 
