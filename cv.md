@@ -32,11 +32,11 @@ address:
 2013--2018
 :   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
-    Supervisor: Tore Ellingsen. 105 ECTS coursework
+    Thesis title: "Education & Replication". Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
     Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/) (2017)
 
-    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016/2017)
+    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016--2017)
 
     Visiting Student, [Stanford University](https://www.stanford.edu/) (2015)
 
@@ -68,7 +68,7 @@ address:
 
 ## Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
 
-Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
 
 ## Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
 
@@ -76,7 +76,7 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 
 ## Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
-Co-Author • <camerer@hss.caltech.edu> • +1 (626 395-4054)
+Co-Author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
 # Awards and Grants
 
@@ -87,10 +87,10 @@ Co-Author • <camerer@hss.caltech.edu> • +1 (626 395-4054)
 :   Jan Wallander and Tom Hedelius Research Grant
 
 2014
-:   Tom Hedelius Research Grant for Studies Abroad
+:   Tom Hedelius Scholarship for Studies Abroad
 
 2013
-:   SASSE Scholarship for Studies Abroad
+:   SASSE Scholarship
 
 # Presentations, Conferences, and Workshops
 
