@@ -34,11 +34,11 @@ address:
 
     Supervisor: Tore Ellingsen. 105 ECTS coursework
 
-    Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), Fall 2017
+    Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), (2017)
 
     Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016/2017)
 
-    Visiting Student, [Stanford University](https://www.stanford.edu/) (summer 2015)
+    Visiting Student, [Stanford University](https://www.stanford.edu/) (2015)
 
 2012--2016
 :   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment
