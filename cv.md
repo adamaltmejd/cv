@@ -139,12 +139,12 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 2013
 :   **Summer Associate**, [JKL](http://www.jkl.se/)
 
-    Summer internship as a consultant in Public Affairs, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
+    Public Affairs consultant, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
 
 2012--2013
 :   **Business Development Analyst Intern**, [Spotify](http://www.spotify.com)
 
-    Internship as an analyst in business development, 1 of 15 admitted from over 1500 applicants. Greatly improved infrastructure for partnership KPI analysis. Employed as *part-time Analyst* during 2012--2013.
+    Business development analyst, 1 of 15 admitted from over 1500 applicants.
 
 2011--2012
 :   **Intern**, [Prime PR](http://www.primegroup.com/)
@@ -152,7 +152,7 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 2010--2011
 :   **Vice President**, [Student Association at SSE](http://www.sasse.se)
 
-    Elected by the students at SSE for a full-time position with a one year mandate as Vice President of SASSE, the most active Student Association in Scandinavia, with 2000 members and a yearly turnover of 15MSEK. Responsible for all running operations in the Student Association, with about 300 active students in 30--50 different projects and associations.
+    Elected by the students at SSE. SASSE is the most active Student Association in Scandinavia with 2000 members, a turnover of 15MSEK, and about 300 active students in 30--50 different projects. Responsible for running operations.
 
 # Skills and Interests
 
