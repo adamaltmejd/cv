@@ -1,6 +1,7 @@
 ---
 layout: cv_layout
 title: Curriculum Vitae
+slug: cv
 author: Adam Altmejd
 email: 'adam@altmejd.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
