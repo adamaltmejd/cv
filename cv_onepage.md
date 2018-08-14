@@ -19,82 +19,64 @@ address:
     country: 'Sweden'
 ---
 
+# Academic Positions
 
-## Education
+2018--
+:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se)
 
-2013--2018 (expected)
-:   **Ph.D in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
+2018--
+:   **Postdoctoral Researcher**, [Swedish House of Finance](https://www.houseoffinance.se)
 
-    Supervisor: Tore Ellingsen. 105 ECTS coursework.
+# Education
+
+2013--2018
+:   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
+
+    Supervisor: Tore Ellingsen. 105 ECTS coursework
 
     Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), Fall 2017
 
-    Visiting Fellow, [Department of Economics at Harvard](http://economics.harvard.edu/) (2016/2017), invited by Prof. David Laibson.
+    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016/2017)
 
-    Visiting Graduate Student, [Stanford University Department of Statistics](https://statistics.stanford.edu/) (summer 2015).
+    Visiting Student, [Stanford University](https://www.stanford.edu/) (summer 2015)
 
 2012--2016
-:   **M.Sc in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment.
+:   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment
 
 2008--2012
-:   **B.Sc in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
+:   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-## Publications
+# Publications
 
 2016
-:   Camerer et al. 2016. "Evaluating Replicability of Laboratory Experiments in
-Economics." _Science_. American Association for the Advancement of
-Science.[10.1126/science.aaf0918](https://doi.org/10.1126/science.aaf0918)
+:   [@Camerer2016]
 
 2015
-:   Munafo et al. 2015. "Using Prediction Markets to Forecast Research
-Evaluations." _Royal Society Open Science_ 2 (10). The Royal
-Society. [10.1098/rsos.150287](https://doi.org/10.1098/rsos.150287).
+:   [@Munafo2015]
 
-## Current projects
+# Work In Progress
 
-Sibling Spill-overs and Education Choice
+"Sibling Influence on College Choice"
 
-Predicting Replication
+"Relative Returns to Swedish College Fields"
 
-Social Sciences Replication Project
+"Predicting Replication" with Colin Camerer et. al.
 
-Homophily and Information Avoidance
+"Social Science Replication Project" with Colin Camerer et. al.
 
-## References
+# References
 
-### Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
+Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se>
 
-Supervisor • <tore.ellingsen@hhs.se> • +46-8-736 92 60
+Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se>
 
-### Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
+Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-Author • <camerer@hss.caltech.edu>
 
-Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+# Awards and Grants
 
-### Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
+Thulestiftelsen Postdoctoral Scholarship (2018), Jan Wallander and Tom Hedelius Research Grant (2015--2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
 
-Co-Author • <camerer@hss.caltech.edu> • +1 (626 395-4054)
-
-## Awards
-
-2014
-:   **Hedelius Research Fellowship**, SEK 642 000
-
-2013
-:   **SASSE Scholarship**, SEK 85 000
-
-## Presentations
-
-2018
-:   Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), ENTER Jamboree (Université de Toulouse, France)
-
-2017
-:   Harvard Behavioral Lunch (Cambridge, MA), briq Summer School (Bonn, Germany), SSE Human Capital Workshop (Stockholm, Sweden), SUDSWEC (Stockholm University, Sweden)
-
-2016
-:   NHH Choice Lab Workshop (Bergen, Norway), Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
-
-## Teaching Experience
+# Teaching Experience
 
 2014, 2015
 :   **Math Summer Camp, PhD**
