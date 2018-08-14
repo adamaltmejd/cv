@@ -4,7 +4,7 @@ title: Curriculum Vitae
 author: Adam Altmejd
 email: 'adam@altmejd.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
-description: 'The Curriculum Vitae of Adam Altmejd, PhD. Student in Economics.'
+description: 'The Curriculum Vitae of Adam Altmejd, Ph.D. in Economics.'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
@@ -38,10 +38,10 @@ address:
 
     Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016/2017)
 
-    Visiting Student, [Stanford University](https://www.stanford.edu/) (2015)
+    Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015)
 
 2012--2016
-:   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment
+:   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), M.Sc.--Ph.D. parallel enrollment
 
 2008--2012
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
@@ -70,7 +70,7 @@ Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Sup
 
 Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se>
 
-Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-Author • <camerer@hss.caltech.edu>
+Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-author • <camerer@hss.caltech.edu>
 
 # Awards and Grants
 

@@ -4,7 +4,7 @@ title: Curriculum Vitae
 author: Adam Altmejd
 email: 'adam@altmejd.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
-description: 'The Curriculum Vitae of Adam Altmejd, PhD. Student in Economics.'
+description: 'The Curriculum Vitae of Adam Altmejd, Ph.D. in Economics.'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
@@ -38,10 +38,10 @@ address:
 
     Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016--2017)
 
-    Visiting Student, [Stanford University](https://www.stanford.edu/) (2015)
+    Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015)
 
 2012--2016
-:   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), MSc-PhD parallel enrollment
+:   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), M.Sc.--Ph.D. parallel enrollment
 
 2008--2012
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
@@ -76,7 +76,7 @@ Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
 
 ## Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
-Co-Author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
+Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
 # Awards and Grants
 
@@ -106,17 +106,17 @@ Co-Author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 # Teaching Experience
 
 2014, 2015
-:   Math Summer Camp, PhD
+:   Math Summer Camp, Ph.D. level
 
-    Week-long preparatory math course for arriving PhD students in Economics and Finance. Average score 4.5/5.
+    Week-long preparatory math course for arriving Ph.D. students in Economics and Finance. Average score 4.5/5.
 
 2014, 2015
-:   Teaching Assistant: Mathematics I, PhD
+:   Teaching Assistant: Mathematics I, Ph.D. level
 
-    Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics for PhD. students in Economics and Finance. Real analysis, topology, optimization and set theory. Average score 4.5/5.
+    Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics class for Ph.D. students in Economics and Finance. Real analysis, topology, optimization and set theory. Average score 4.5/5.
 
 2012
-:   Teaching Assistant: Microeconomics, BSc
+:   Teaching Assistant: Microeconomics, B.Sc. level
 
     Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
 
@@ -127,12 +127,12 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 # Non-academic Qualifications
 
 2016--
-:   **Member of the board**, [Musethica Sweden](https://musethica.org)
+:   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
 
-    Musethica is an international nonprofit organization that promotes a new approach in teaching classical music performance, integrating a very large number of concerts in to the education program of young excellent artists. The students perform in different social institutions, like kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
+    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating a very large number of concerts into the education program of young excellent artists. The students perform in different social institutions, like kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
 
 2014--2015
-:   **Member of the board**, [SSE Alumni Association](http://hhskamratforening.se/)
+:   **Member of the Board**, [SSE Alumni Association](http://hhskamratforening.se/)
 
     The SSE alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
 
