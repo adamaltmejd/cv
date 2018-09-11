@@ -93,10 +93,10 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 2013
 :   SASSE Scholarship
 
-# Presentations, Conferences, and Workshops
+# Presentations and Workshops
 
 2018
-:   Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), Early Career Behavioral Economists' Conference (Bergen, Norway), Russel Sage Foundation Summer Institute in Behavioral Economics (Waterville Valley, NH)
+:   IFAU (Uppsala, Sweden), SOFI (Stockholm, Sweden), Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), Early Career Behavioral Economists' Conference (Bergen, Norway), Russel Sage Foundation Summer Institute in Behavioral Economics (Waterville Valley, NH)
 
 2017
 :   Harvard Behavioral Lunch (Cambridge, MA), briq Summer School (Bonn, Germany), SSE Human Capital Workshop (Stockholm, Sweden), SUDSWEC (Stockholm University, Sweden)
