@@ -48,6 +48,9 @@ address:
 
 # Publications
 
+2018
+:   [@Camerer2018]
+
 2016
 :   [@Camerer2016]
 
@@ -61,8 +64,6 @@ address:
 "Relative Returns to Swedish College Fields"
 
 "Predicting Replication" with Colin Camerer et. al.
-
-"Social Science Replication Project" with Colin Camerer et. al.
 
 # References
 
