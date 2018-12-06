@@ -140,19 +140,14 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 2016--
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
 
-    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating a very large number of concerts into the education program of young excellent artists. The students perform in different social institutions, like kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
-
-2014--2015
-:   **Member of the Board**, [SSE Alumni Association](http://hhskamratforening.se/)
-
-    The SSE alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
+    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
 
 2010--2011
 :   **Vice President**, [Student Association at SSE](http://www.sasse.se)
 
     Elected by the students at SSE. SASSE is the most active Student Association in Scandinavia with 2000 members, a turnover of 15MSEK, and about 300 active students in 30--50 different projects. Responsible for running operations.
 
-# Skills and Interests
+# Skills
 
 ## Spoken Languages
 
@@ -160,8 +155,4 @@ Swedish (native), English (fluent), French (good), Polish (good)
 
 ## Computer Skills
 
-Advanced user of PC, Mac, MS-Office, STATA, Matlab, Adobe-suite. Programming in R, Python, SQL, LaTeX. Web Design with HTML, CSS, SASS, Twitter Bootstrap.
-
-## Interests
-
-Playing the piano, music, cinema (especially asian and russian), contemporary art and politics
+Advanced user of PC, Mac, *nix, MS-Office, STATA, Matlab, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS and SASS.
