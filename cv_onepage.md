@@ -22,10 +22,10 @@ address:
 # Academic Positions
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se)
+:   **Postdoctoral Researcher**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish House of Finance](https://www.houseoffinance.se)
+:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se)
 
 # Education
 
@@ -48,6 +48,9 @@ address:
 
 # Publications
 
+2018
+:   [@Camerer2018]
+
 2016
 :   [@Camerer2016]
 
@@ -62,19 +65,19 @@ address:
 
 "Predicting Replication" with Colin Camerer et. al.
 
-"Social Science Replication Project" with Colin Camerer et. al.
-
 # References
 
 Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se>
 
 Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se>
 
+Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/) • Dissertation Opponent • <katrine.loken@nhh.no>
+
 Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-author • <camerer@hss.caltech.edu>
 
 # Awards and Grants
 
-Thulestiftelsen Postdoctoral Scholarship (2018), Jan Wallander and Tom Hedelius Research Grant (2015--2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
+Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018), Thulestiftelsen Postdoctoral Scholarship (2018), Jan Wallander and Tom Hedelius Research Grant (2015--2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
 
 # Teaching Experience
 

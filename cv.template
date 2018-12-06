@@ -32,7 +32,7 @@ $endif$
 % ============================ GEOMETRY, SKIPS, ETC. ==========================
 
 \setlrmarginsandblock{30mm}{25mm}{*} % left right margins
-\setulmarginsandblock{20mm}{25mm}{*} % top bottom margins
+\setulmarginsandblock{18mm}{23mm}{*} % top bottom margins
 \setheadfoot{\onelineskip}{2\onelineskip} % {headheight}{footskip}
 \setheaderspaces{20mm}{*}{*} % {headdrop}{headsep}{ratio}
 
