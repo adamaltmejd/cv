@@ -22,10 +22,18 @@ address:
 # Academic Positions
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se)
+:   **Postdoctoral Researcher**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish House of Finance](https://www.houseoffinance.se)
+:   **Research Fellow**, [Swedish House of Finance](https://www.houseoffinance.se)
+
+2018--
+:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
+
+# Visits
+
+2016--2017
+:    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/)
 
 # Education
 
@@ -35,8 +43,6 @@ address:
     Thesis title: "Education & Replication". Supervisor: Tore Ellingsen. 105 ECTS coursework.
 
     Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/) (2017)
-
-    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016--2017)
 
     Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015)
 
@@ -74,6 +80,10 @@ Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
 ## Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
 
 Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
+
+## Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/)
+
+Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
 
 ## Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
