@@ -8,7 +8,6 @@
 \documentclass[a4paper,11pt,article,oneside,openany]{memoir}
 \usepackage{fontspec}
 \usepackage{polyglossia}\setmainlanguage[variant=american]{english}
-\usepackage{geometry}
 \usepackage[sf,compact]{titlesec}
 
 $if(vc-git)$
@@ -32,19 +31,20 @@ $endif$
 
 % ============================ GEOMETRY, SKIPS, ETC. ==========================
 
-\geometry{
-    centering,
-    left=2.5cm,
-    right=2.5cm,
-    top=1.5cm,
-    bottom=1.5cm,
-    vscale=0.85
-}
+\setlrmarginsandblock{30mm}{25mm}{*} % left right margins
+\setulmarginsandblock{20mm}{25mm}{*} % top bottom margins
+\setheadfoot{\onelineskip}{2\onelineskip} % {headheight}{footskip}
+\setheaderspaces{20mm}{*}{*} % {headdrop}{headsep}{ratio}
+
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{2pt} % small parskip (margin between paragraphs)
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\raggedbottom % allow uneved linebreaks
 
+\raggedbottom % allow textheight to vary somewhat between pages
+\feetatbottom % to ensure footnotes are still at bottom with \raggedbottom
+\checkandfixthelayout[fixed] % use "fixed" with raggedbottom
+\checkandfixthelayout[fixed]
+
+% Length of description label indent
 \newlength\desclen
 \setlength\desclen{1.5\marginparwidth}
 
