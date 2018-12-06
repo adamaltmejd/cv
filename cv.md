@@ -147,19 +147,6 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 
     The SSE alumni association has over 3 000 members, maintains a mentorship program and organizes activities such as inspirational lectures and homecoming parties.
 
-2013
-:   **Summer Associate**, [JKL](http://www.jkl.se/)
-
-    Public Affairs consultant, working with communication strategy for customers such as the Swedish Riksbank. JKL is one of the most esteemed Swedish consultancies in strategic communication.
-
-2012--2013
-:   **Business Development Analyst Intern**, [Spotify](http://www.spotify.com)
-
-    Business development analyst, 1 of 15 admitted from over 1500 applicants.
-
-2011--2012
-:   **Intern**, [Prime PR](http://www.primegroup.com/)
-
 2010--2011
 :   **Vice President**, [Student Association at SSE](http://www.sasse.se)
 
