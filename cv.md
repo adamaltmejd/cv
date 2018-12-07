@@ -25,7 +25,7 @@ address:
 :   **Postdoctoral Researcher**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
-:   **Research Fellow**, [Swedish House of Finance](https://www.houseoffinance.se)
+:   **Postdoctoral Fellow**, [Swedish House of Finance](https://www.houseoffinance.se)
 
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
