@@ -7,13 +7,15 @@
       <email>adam@altmejd.se</email>
       <uri>https://adamaltmejd.se</uri>
     </author>
+    <id>https://github.com/adamaltmejd/cv</id>
+    <link href="https://github.com/adamaltmejd/cv" rel="self"/>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <updated> 2016-03-03T15:18:39+01:00</updated>
     <summary>
-      A CSL style for use with pandoc-citeproc when creating the list of publications in my CV. Based on chicago-author-date.csl.
+      A CSL style for use with pandoc-citeproc when creating the list of publications in my CV. Vaguely based on chicago-author-date.csl.
     </summary>
-    <rights>This work is licensed under a Creative Commons Attribution-Share Alike 3.0 License: http://creativecommons.org/licenses/by-sa/3.0/</rights>
+    <rights>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-sa/4.0/</rights>
   </info>
   <locale xml:lang="en">
     <terms>
@@ -170,10 +172,10 @@
         <if type="legal_case" match="none">
           <choose>
             <if variable="DOI">
-              <text variable="DOI" prefix=""/>
+              <!-- <text variable="DOI" prefix=""/> -->
             </if>
             <else>
-              <text variable="URL"/>
+              <!-- <text variable="URL"/> -->
             </else>
           </choose>
         </if>
@@ -429,7 +431,7 @@
         <group delimiter=" ">
           <date variable="original-date" form="text" date-parts="year" prefix="(" suffix=")"/>
           <date variable="issued">
-            <date-part name="year"/>
+            <!-- <date-part name="year"/> -->
           </date>
         </group>
       </if>
