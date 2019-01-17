@@ -32,11 +32,9 @@ address:
 2013--2018
 :   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
-    Supervisor: Tore Ellingsen. 105 ECTS coursework
+    Thesis title: "Education & Replication".
 
-    Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/), (2017)
-
-    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/) (2016/2017)
+    Visiting Researcher, [Harvard University](http://economics.harvard.edu/).  Faculty Sponsor: Prof. David Laibson. (2016/2017)
 
     Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015)
 
@@ -49,19 +47,23 @@ address:
 # Publications
 
 2018
-:   [@Camerer2018]
+:   [@Camerer2018_evaluating_replicability]
 
 2016
-:   [@Camerer2016]
+:   [@Camerer2016_evaluating_replicability]
 
 2015
-:   [@Munafo2015]
+:   [@Munafo2015_using_prediction]
 
 # Work In Progress
 
 "Sibling Influence on College Choice"
 
 "Relative Returns to Swedish College Fields"
+
+"Financial Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
+
+"The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
 
 "Predicting Replication" with Colin Camerer et. al.
 
@@ -77,7 +79,7 @@ Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
 # Awards and Grants
 
-Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018), Thulestiftelsen Postdoctoral Scholarship (2018), Jan Wallander and Tom Hedelius Research Grant (2015--2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
+Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
 
 # Teaching Experience
 

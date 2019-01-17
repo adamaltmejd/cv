@@ -11,8 +11,8 @@ linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
 mobile: '+46 (0) 734 20 01 20'
 address:
-    affiliation: 'Department of Economics'
-    online: 'https://www.hhs.se/en/Research/Departments/DE/'
+    affiliation: 'Department of Finance'
+    online: 'https://www.hhs.se/en/research/departments/df/'
     main: 'Stockholm School of Economics'
     box: 'P.O. Box 6501'
     city: '113 83 Stockholm'
@@ -30,17 +30,19 @@ address:
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
-# Visits
+# Research Visits
 
 2016--2017
-:    Visiting Researcher, Department of Economics, [Harvard University](http://economics.harvard.edu/)
+:    Department of Economics, [Harvard University](http://economics.harvard.edu/), Faculty Sponsor: Prof. David Laibson
 
 # Education
 
 2013--2018
 :   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
-    Thesis title: "Education & Replication". Supervisor: Tore Ellingsen. 105 ECTS coursework.
+    Thesis title: "Education & Replication". 105 ECTS coursework.
+
+    Supervisor: Prof. Tore Ellingsen. Faculty Opponent: Prof. Katrine V. Løken.
 
     Research Intern, [Sveriges Riksbank](http://www.riksbank.se/en/) (2017)
 
@@ -55,13 +57,13 @@ address:
 # Publications
 
 2018
-:   [@Camerer2018]
+:   [@Camerer2018_evaluating_replicability]
 
 2016
-:   [@Camerer2016]
+:   [@Camerer2016_evaluating_replicability]
 
 2015
-:   [@Munafo2015]
+:   [@Munafo2015_using_prediction]
 
 # Work In Progress
 
@@ -69,13 +71,17 @@ address:
 
 "Relative Returns to Swedish College Fields"
 
+"Financial Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
+
+"The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
+
 "Predicting Replication" with Colin Camerer et. al.
 
 # References
 
 ## Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
 
-Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
+Primary Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
 
 ## Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
 
@@ -90,12 +96,11 @@ Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
 Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
 # Awards and Grants
+2019
+:   Jan Wallander 3-year Postdoctoral Fellowship
 
 2018
-:   Thulestiftelsen Postdoctoral Scholarship, Jan Wallander 3-year Postdoctoral Fellowship, Swedish Royal Academy Social Sciences Research Grant
-
-2015--2018
-:   Jan Wallander and Tom Hedelius Research Grant
+:   Thulestiftelsen 1-year Postdoctoral Scholarship, Royal Academy Research Grant (SO2018-0065)
 
 2014
 :   Tom Hedelius Scholarship for Studies Abroad
@@ -117,19 +122,19 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 # Teaching Experience
 
 2014, 2015
-:   Math Summer Camp, Ph.D. level
+:   Math Summer Camp, Ph.D.
 
-    Week-long preparatory math course for arriving Ph.D. students in Economics and Finance. Average score 4.5/5.
+    Preparatory math class for arriving Ph.D. students in Economics and Finance. Average score 4.5/5.
 
 2014, 2015
-:   Teaching Assistant: Mathematics I, Ph.D. level
+:   Teaching Assistant: Mathematics I, Ph.D.
 
-    Teaching Assistant for Professor Jörgen Weibull in an introductory Mathematics class for Ph.D. students in Economics and Finance. Real analysis, topology, optimization and set theory. Average score 4.5/5.
+    Teaching Assistant for Prof. Jörgen Weibull. Introductory Mathematics for Ph.D. students in Economics and Finance. Real analysis, topology, optimization and set theory. Average score 4.5/5.
 
 2012
-:   Teaching Assistant: Microeconomics, B.Sc. level
+:   Teaching Assistant: Microeconomics, B.Sc.
 
-    Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics.
+    Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics. Not evaluated.
 
 # Referee Service
 
