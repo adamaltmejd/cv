@@ -22,10 +22,7 @@ address:
 # Academic Positions
 
 2018--
-:   **Postdoctoral Researcher**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
-
-2018--
-:   **Postdoctoral Fellow**, [Swedish House of Finance](https://www.houseoffinance.se)
+:   **Wallander Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
