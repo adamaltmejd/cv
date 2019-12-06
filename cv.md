@@ -21,7 +21,7 @@ address:
 
 # Academic Positions
 
-2018--
+2019--
 :   **Wallander Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
@@ -53,6 +53,9 @@ address:
 
 # Publications
 
+2019
+:   [@Altmejd2019_predicting_replicability]
+
 2018
 :   [@Camerer2018_evaluating_replicability]
 
@@ -68,11 +71,9 @@ address:
 
 "Relative Returns to Swedish College Fields"
 
-"Financial Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
+"Business Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
 
 "The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
-
-"Predicting Replication" with Colin Camerer et. al.
 
 # References
 
