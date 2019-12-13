@@ -103,10 +103,7 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 :   Royal Academy Research Grant (Principal Investigator, SO2018-0065)
 
 2014
-:   Tom Hedelius Scholarship for Studies Abroad
-
-2013
-:   SASSE Scholarship
+:   Tom Hedelius Scholarship for research visit to Harvard University
 
 # Presentations and Workshops
 

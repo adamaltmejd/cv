@@ -19,13 +19,14 @@ address:
     country: 'Sweden'
 ---
 
+
 # Academic Positions
 
-2018--
-:   **Postdoctoral Researcher**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
+2019--
+:   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se)
+:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
 # Education
 
@@ -46,6 +47,9 @@ address:
 
 # Publications
 
+2019
+:   [@Altmejd2019_predicting_replicability]
+
 2018
 :   [@Camerer2018_evaluating_replicability]
 
@@ -54,18 +58,6 @@ address:
 
 2015
 :   [@Munafo2015_using_prediction]
-
-# Work In Progress
-
-"Sibling Influence on College Choice"
-
-"Relative Returns to Swedish College Fields"
-
-"Financial Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
-
-"The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
-
-"Predicting Replication" with Colin Camerer et. al.
 
 # References
 
@@ -79,7 +71,7 @@ Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
 # Awards and Grants
 
-Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018), Tom Hedelius Research Grant for Studies Abroad (2014), SASSE Scholarship for Studies Abroad (2013)
+The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
 
 # Teaching Experience
 
