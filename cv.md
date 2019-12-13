@@ -96,9 +96,11 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 # Awards and Grants
 2019
 :   Jan Wallander 3-year Postdoctoral Fellowship
+:   The Jan Wallander and Tom Hedelius Foundation Program Grant (Principal Investigator, P19-0168)
 
 2018
-:   Thulestiftelsen 1-year Postdoctoral Scholarship, Royal Academy Research Grant (SO2018-0065)
+:   Skandiabanken Thule Foundation, Postdoctoral Scholarship
+:   Royal Academy Research Grant (Principal Investigator, SO2018-0065)
 
 2014
 :   Tom Hedelius Scholarship for Studies Abroad
