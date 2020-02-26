@@ -45,7 +45,7 @@ address:
 2008--2012
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-# Publications
+# Publications and Working Papers
 
 2019
 :   [@Altmejd2019_predicting_replicability]

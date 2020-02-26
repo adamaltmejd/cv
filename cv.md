@@ -65,13 +65,18 @@ address:
 2015
 :   [@Munafo2015_using_prediction]
 
-# Work In Progress
+# Working Papers
 
-"Sibling Influence on College Choice"
+2020
+:   [@Altmejd2020_siblings_spillover]
+
+# Work In Progress
 
 "Relative Returns to Swedish College Fields"
 
 "Business Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
+
+"Do engineering schools foster innovation?" with Daniel Metzger and Michael Böhm
 
 "The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
 
@@ -143,11 +148,6 @@ Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economic
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
 
     Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
-
-2010--2011
-:   **Vice President**, [Student Association at SSE](http://www.sasse.se)
-
-    Elected by the students at SSE. SASSE is the most active Student Association in Scandinavia with 2000 members, a turnover of 15MSEK, and about 300 active students in 30--50 different projects. Responsible for running operations.
 
 # Skills
 
