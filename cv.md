@@ -68,17 +68,19 @@ address:
 # Working Papers
 
 2020
-:   [@Altmejd2020_siblings_spillover]
+:   [@Altmejd2020_o_brother] R&R at the Quarterly Journal of Economics
 
 # Work In Progress
 
-"Relative Returns to Swedish College Fields"
+"Estimating The Heterogeneity of Long-Run Returns to Swedish Higher Education"
 
 "Business Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
 
 "Do engineering schools foster innovation?" with Daniel Metzger and Michael Böhm
 
 "The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
+
+"How do financial circumstances shape individual preferences to save?" with Jonathan de Quidt
 
 # References
 
@@ -98,9 +100,17 @@ Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
 
 Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
+## Assistant Professor [Christopher A. Neilson](https://christopherneilson.github.io)
+
+Co-author • <cneilson@princeton.edu>
+
+## Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222)
+
+PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
+
 # Awards and Grants
 2019
-:   Jan Wallander 3-year Postdoctoral Fellowship
+:   Jan Wallander 3-year Postdoctoral Fellowship (W18-0005)
 :   The Jan Wallander and Tom Hedelius Foundation Program Grant (Principal Investigator, P19-0168)
 
 2018
@@ -110,7 +120,13 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 2014
 :   Tom Hedelius Scholarship for research visit to Harvard University
 
-# Presentations and Workshops
+# Recent Presentations and Workshops
+
+2020
+:   Swedish Ministry of Finance (Stockholm, Sweden)
+
+2019
+:   EALE (Uppsala, Sweden), Barcelona GSE Summer Forum (Barcelona, Spain), 14th Nordic Conference on Behavioral and Experimental Economics (Kiel, Germany)
 
 2018
 :   IFAU (Uppsala, Sweden), SOFI (Stockholm, Sweden), Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), Early Career Behavioral Economists' Conference (Bergen, Norway), Russel Sage Foundation Summer Institute in Behavioral Economics (Waterville Valley, NH)
@@ -122,6 +138,9 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 :   NHH Choice Lab Workshop (Bergen, Norway), Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
 
 # Teaching Experience
+
+2020
+:   BSc and MSc thesis supervisor in Finance. Average score 7/7.
 
 2014, 2015
 :   Math Summer Camp, Ph.D.
@@ -140,7 +159,7 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
 # Referee Service
 
-Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics
+PLOS One, Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics
 
 # Non-academic Qualifications
 
