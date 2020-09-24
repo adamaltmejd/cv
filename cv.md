@@ -69,6 +69,7 @@ address:
 
 2020
 :   [@Altmejd2020_o_brother] R&R at the Quarterly Journal of Economics
+:   [@Altmejd2020_nowcasting_covid19]
 
 # Work In Progress
 
