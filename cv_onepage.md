@@ -77,7 +77,7 @@ Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
 # Awards and Grants
 
-The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
+IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
 
 # Teaching Experience
 

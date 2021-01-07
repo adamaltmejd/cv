@@ -112,9 +112,12 @@ Co-author • <cneilson@princeton.edu>
 PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Awards and Grants
+2020
+:   IFAU Project Grant "The Impact of University Education: Causal Evidence from Four Decades of Applications" (Principal Investigator, 152/2020)
+
 2019
 :   Jan Wallander 3-year Postdoctoral Fellowship (W18-0005)
-:   The Jan Wallander and Tom Hedelius Foundation Program Grant (Principal Investigator, P19-0168)
+:   The Jan Wallander and Tom Hedelius Foundation Program Grant "Bystander-Initiated CPR: Health Outcomes, Social Spillovers, and Efficient Coordination of Volunteers" (Principal Investigator, P19-0168)
 
 2018
 :   Skandiabanken Thule Foundation, Postdoctoral Scholarship
