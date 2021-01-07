@@ -1,9 +1,11 @@
 # Makefile for Adam Altmejd's resume
 
 # Apart from latex, gawk and pandoc, needs the following fonts:
+# Fontawesome
 # XITS Math: https://github.com/khaledhosny/xits
 # Operator Mono
 # Gill Sans Std
+# Minion Pro
 
 ## Source and output files
 # Because we have citations we need pandoc to build html file (rather than Jekyll)
@@ -19,6 +21,7 @@ all: $(targets)
 %.html: %.md
 	pandoc \
 		--from markdown+smart+yaml_metadata_block+header_attributes+definition_lists \
+		--citeproc \
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--to html5 \
@@ -31,6 +34,7 @@ all: $(targets)
 		--from markdown+smart+yaml_metadata_block+header_attributes+definition_lists \
 		--to latex \
 		--pdf-engine=xelatex \
+		--citeproc \
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--template=cv.template \
