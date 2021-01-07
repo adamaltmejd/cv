@@ -67,8 +67,10 @@ address:
 
 # Working Papers
 
+2021
+:   [@Altmejd2020_o_brother]
+
 2020
-:   [@Altmejd2020_o_brother] R&R at the Quarterly Journal of Economics
 :   [@Altmejd2020_nowcasting_covid19]
 
 # Work In Progress
@@ -160,7 +162,7 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Referee Service
 
-PLOS One, Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics
+PLOS One, Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics, Journal of Public Economics
 
 # Non-academic Qualifications
 

@@ -45,7 +45,13 @@ address:
 2008--2012
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-# Publications and Working Papers
+# Selection of Papers
+
+2021
+:   [@Altmejd2020_o_brother]
+
+2020
+:   [@Altmejd2020_nowcasting_covid19]
 
 2019
 :   [@Altmejd2019_predicting_replicability]
