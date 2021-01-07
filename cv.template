@@ -21,7 +21,7 @@ $endif$
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 \usepackage[hyperref,svgnames]{xcolor}
 \usepackage{url}
-\usepackage{fontawesome} % for fontawesome fonts
+\usepackage{fontawesome5} % for fontawesome fonts
 \usepackage{enumitem} % for layout of description envs
 \usepackage{hyperref}
 
