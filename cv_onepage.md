@@ -48,7 +48,7 @@ address:
 # Selection of Papers
 
 2021
-:   [@Altmejd2020_o_brother]
+:   [@Altmejd2021_o_brother]
 
 2020
 :   [@Altmejd2020_nowcasting_covid19]
@@ -81,11 +81,14 @@ IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation
 
 # Teaching Experience
 
-2014, 2015
-:   **Math Summer Camp, PhD**
+2020, 2021
+:   BSc and MSc thesis supervisor in Finance. Average score 7/7.
 
 2014, 2015
-:   **Teaching Assistant: Mathematics I, PhD**
+:   Math Summer Camp, PhD
+
+2014, 2015
+:   Teaching Assistant: Mathematics I, PhD
 
 2012
-:   **Teaching Assistant: Microeconomics, BSc**
+:   Teaching Assistant: Microeconomics, BSc

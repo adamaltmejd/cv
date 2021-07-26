@@ -53,6 +53,9 @@ address:
 
 # Publications
 
+2021
+:   [@Altmejd2021_o_brother]
+
 2019
 :   [@Altmejd2019_predicting_replicability]
 
@@ -67,13 +70,12 @@ address:
 
 # Working Papers
 
-2021
-:   [@Altmejd2020_o_brother]
-
 2020
 :   [@Altmejd2020_nowcasting_covid19]
 
 # Work In Progress
+
+"Intergenerational transmission of university program and institution choice"
 
 "Estimating The Heterogeneity of Long-Run Returns to Swedish Higher Education"
 
@@ -82,8 +84,6 @@ address:
 "Do engineering schools foster innovation?" with Daniel Metzger and Michael Böhm
 
 "The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
-
-"How do financial circumstances shape individual preferences to save?" with Jonathan de Quidt
 
 # References
 
@@ -145,7 +145,7 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Teaching Experience
 
-2020
+2020, 2021
 :   BSc and MSc thesis supervisor in Finance. Average score 7/7.
 
 2014, 2015
@@ -168,6 +168,11 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 PLOS One, Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics, Journal of Public Economics
 
 # Non-academic Qualifications
+
+2021-2022
+:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com)
+
+    The Covid-19 commission, tasked by the Swedish government to evaluate how the country dealt with the pandemic.
 
 2016--
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
