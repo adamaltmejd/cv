@@ -75,7 +75,7 @@ address:
 
 # Work In Progress
 
-"Intergenerational transmission of university program and institution choice"
+"Inheritance of fields of study"
 
 "Estimating The Heterogeneity of Long-Run Returns to Swedish Higher Education"
 
