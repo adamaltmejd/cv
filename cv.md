@@ -32,6 +32,13 @@ address:
 2016--2017
 :    Department of Economics, [Harvard University](http://economics.harvard.edu/), Faculty Sponsor: Prof. David Laibson
 
+# Research Breaks
+
+2021-2022
+:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com)
+
+    The Covid-19 commission, tasked by the Swedish government to evaluate how the country dealt with the pandemic. April 2021--February 2022.
+
 # Education
 
 2013--2018
@@ -70,20 +77,30 @@ address:
 
 # Working Papers
 
+2022
+:   [@Altmejd2022_inheritance_fields]
+:   [@Altmejd2022_business_education]
+
 2020
 :   [@Altmejd2020_nowcasting_covid19]
 
 # Work In Progress
 
-"Inheritance of fields of study"
+*Estimating The Heterogeneity of Long-Run Returns to Swedish Higher Education*
 
-"Estimating The Heterogeneity of Long-Run Returns to Swedish Higher Education"
+*University education, political participation, and prosocial behavior* with Luis Cornago Bonal and José Montalban
 
-"Business Education and Stock Market Participation" with Thomas Jansson and Yigitcan Karabulut
+*University education and health* with Andreas Diemer
 
-"Do engineering schools foster innovation?" with Daniel Metzger and Michael Böhm
+*Inequality in College Applications: Evidence from Three Continents* with Andrés Barrios-Fernández, Aspasia Bizopoulou, Martti Kaila, Rigissa Megalokonomou, José Montalban, Christopher Neilson, Sebastian Otero, and Xiaoyang Ye
 
-"The Formation of Prosocial Preferences in the Field" with David Birke and Egon Tripodi
+*Do engineering schools foster innovation?* with Daniel Metzger and Michael Böhm
+
+*The Formation of Prosocial Preferences in the Field* with David Birke and Egon Tripodi
+
+*COVID-19 inequality* with Evelina Björkegren, Torsten Persson, and Olof Östergren
+
+*Heterogeneity in COVID-19 morbidity and mortality* with Evelina Björkegren, Arizo Karimi, Torsten Persson, and Olof Östergren
 
 # References
 
@@ -112,6 +129,10 @@ Co-author • <cneilson@princeton.edu>
 PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Awards and Grants
+
+2022
+:   Riksbankens Jubileumsfond *A research program about COVID-19*. Infrastructure grant. (co-applicant, 12.5MSEK)
+
 2020
 :   IFAU Project Grant "The Impact of University Education: Causal Evidence from Four Decades of Applications" (Principal Investigator, 152/2020)
 
@@ -126,27 +147,10 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 2014
 :   Tom Hedelius Scholarship for research visit to Harvard University
 
-# Recent Presentations and Workshops
-
-2020
-:   Swedish Ministry of Finance (Stockholm, Sweden)
-
-2019
-:   EALE (Uppsala, Sweden), Barcelona GSE Summer Forum (Barcelona, Spain), 14th Nordic Conference on Behavioral and Experimental Economics (Kiel, Germany)
-
-2018
-:   IFAU (Uppsala, Sweden), SOFI (Stockholm, Sweden), Micro Wave (IIES, Stockholm, Sweden), UCSD Spring School (San Diego, CA), Early Career Behavioral Economists' Conference (Bergen, Norway), Russel Sage Foundation Summer Institute in Behavioral Economics (Waterville Valley, NH)
-
-2017
-:   Harvard Behavioral Lunch (Cambridge, MA), briq Summer School (Bonn, Germany), SSE Human Capital Workshop (Stockholm, Sweden), SUDSWEC (Stockholm University, Sweden)
-
-2016
-:   NHH Choice Lab Workshop (Bergen, Norway), Harvard ECON-CS (Cambridge, MA), BITSS Annual Meeting (Berkeley, CA)
-
 # Teaching Experience
 
 2020, 2021
-:   BSc and MSc thesis supervisor in Finance. Average score 7/7.
+:   BSc thesis supervisor in Finance. Average score 7/7.
 
 2014, 2015
 :   Math Summer Camp, Ph.D.
@@ -165,14 +169,9 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Referee Service
 
-PLOS One, Journal of Behavioral and Experimental Finance, Scandinavian Journal of Economics, Journal of Public Economics
+B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, Journal of Behavioral and Experimental Finance, Journal of Public Economics, PLOS One, Scandinavian Journal of Economics, Quarterly Journal of Economics
 
 # Non-academic Qualifications
-
-2021-2022
-:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com)
-
-    The Covid-19 commission, tasked by the Swedish government to evaluate how the country dealt with the pandemic.
 
 2016--
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)

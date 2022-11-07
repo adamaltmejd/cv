@@ -28,16 +28,17 @@ address:
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
+# Research Breaks
+
+2021-2022
+:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com) (April 2021--February 2022)
+
 # Education
 
 2013--2018
 :   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
 
-    Thesis title: "Education & Replication".
-
-    Visiting Researcher, [Harvard University](http://economics.harvard.edu/).  Faculty Sponsor: Prof. David Laibson. (2016/2017)
-
-    Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015)
+    Thesis title: "Education & Replication". Visiting Researcher, [Harvard University](http://economics.harvard.edu/), Faculty Sponsor: Prof. David Laibson. (2016/2017). Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015).
 
 2012--2016
 :   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), M.Sc.--Ph.D. parallel enrollment
@@ -45,13 +46,10 @@ address:
 2008--2012
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
-# Selection of Papers
+# Selected publications
 
 2021
 :   [@Altmejd2021_o_brother]
-
-2020
-:   [@Altmejd2020_nowcasting_covid19]
 
 2019
 :   [@Altmejd2019_predicting_replicability]
@@ -61,9 +59,6 @@ address:
 
 2016
 :   [@Camerer2016_evaluating_replicability]
-
-2015
-:   [@Munafo2015_using_prediction]
 
 # References
 
@@ -76,8 +71,7 @@ Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/) • Diss
 Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-author • <camerer@hss.caltech.edu>
 
 # Awards and Grants
-
-IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
+Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
 
 # Teaching Experience
 
