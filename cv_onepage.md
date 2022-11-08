@@ -31,7 +31,7 @@ address:
 # Research Breaks
 
 2021-2022
-:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com) (April 2021--February 2022)
+:   **Researcher (sekreterare)**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (July 2021--February 2022, 60%)
 
 # Education
 
@@ -64,11 +64,13 @@ address:
 
 Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se>
 
-Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033) • Supervisor • <magnus.johannesson@hhs.se>
-
 Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/) • Dissertation Opponent • <katrine.loken@nhh.no>
 
 Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-author • <camerer@hss.caltech.edu>
+
+Professor [Christopher A. Neilson](https://christopherneilson.github.io) • Co-author • <cneilson@princeton.edu>
+
+Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222) • PI • <carina.mood@sofi.su.se>
 
 # Awards and Grants
 Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)

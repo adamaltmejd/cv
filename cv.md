@@ -30,14 +30,14 @@ address:
 # Research Visits
 
 2016--2017
-:    Department of Economics, [Harvard University](http://economics.harvard.edu/), Faculty Sponsor: Prof. David Laibson
+:    Department of Economics, **[Harvard University](http://economics.harvard.edu/)**, Faculty Sponsor: Prof. David Laibson
 
 # Research Breaks
 
 2021-2022
 :   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com)
 
-    The Covid-19 commission, tasked by the Swedish government to evaluate how the country dealt with the pandemic. April 2021--February 2022.
+    The Swedish COVID-19 Commission, tasked by the government to evaluate how the country dealt with the pandemic. July 2021--February 2022 at 60% of full time.
 
 # Education
 
@@ -108,10 +108,6 @@ address:
 
 Primary Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
 
-## Professor [Magnus Johannesson](https://www.hhs.se/en/person/?personid=1981033)
-
-Secondary Supervisor • <magnus.johannesson@hhs.se> • +46 8 736 94 43
-
 ## Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/)
 
 Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
@@ -120,7 +116,7 @@ Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
 
 Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
-## Assistant Professor [Christopher A. Neilson](https://christopherneilson.github.io)
+## Professor [Christopher A. Neilson](https://christopherneilson.github.io)
 
 Co-author • <cneilson@princeton.edu>
 
