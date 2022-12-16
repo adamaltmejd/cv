@@ -51,7 +51,7 @@ all: $(targets)
 
 git:
 	git add $(sources) $(targets)
-	git commit -m "CV makefile auto commit."
+	git commit --allow-empty -m "CV makefile auto commit."
 	git push
 
 clean:
