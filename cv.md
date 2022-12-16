@@ -165,7 +165,7 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 # Referee Service
 
-B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, Journal of Behavioral and Experimental Finance, Journal of Public Economics, PLOS One, Scandinavian Journal of Economics, Quarterly Journal of Economics
+B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, Journal of Behavioral and Experimental Finance, Journal of Public Economics, PLOS One, Scandinavian Journal of Economics, Social Forces, Quarterly Journal of Economics
 
 # Non-academic Qualifications
 
@@ -178,8 +178,8 @@ B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal
 
 ## Spoken Languages
 
-Swedish (native), English (fluent), French (good), Polish (good)
+Swedish (native), English (fluent), French (limited), Polish (limited)
 
 ## Computer Skills
 
-Advanced user of PC, Mac, *nix, MS-Office, STATA, Matlab, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS and SASS.
+Advanced user of PC, Mac, *nix, MS-Office, STATA, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS and SASS.
