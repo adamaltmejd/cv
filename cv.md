@@ -130,15 +130,15 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 :   Riksbankens Jubileumsfond *A research program about COVID-19*. Infrastructure grant. (co-applicant, 12.5MSEK)
 
 2020
-:   IFAU Project Grant "The Impact of University Education: Causal Evidence from Four Decades of Applications" (Principal Investigator, 152/2020)
+:   IFAU Project Grant "The Impact of University Education: Causal Evidence from Four Decades of Applications" (Principal Investigator, 152/2020, 1.5MSEK)
 
 2019
-:   Jan Wallander 3-year Postdoctoral Fellowship (W18-0005)
-:   The Jan Wallander and Tom Hedelius Foundation Program Grant "Bystander-Initiated CPR: Health Outcomes, Social Spillovers, and Efficient Coordination of Volunteers" (Principal Investigator, P19-0168)
+:   Jan Wallander 3-year Postdoctoral Fellowship (W18-0005, 1.7MSEK)
+:   The Jan Wallander and Tom Hedelius Foundation Program Grant "Bystander-Initiated CPR: Health Outcomes, Social Spillovers, and Efficient Coordination of Volunteers" (Principal Investigator, P19-0168, 1MSEK)
 
 2018
-:   Skandiabanken Thule Foundation, Postdoctoral Scholarship
-:   Royal Academy Research Grant (Principal Investigator, SO2018-0065)
+:   Skandiabanken Thule Foundation, Postdoctoral Scholarship (0.5MSEK)
+:   Royal Academy Research Grant (Principal Investigator, SO2018-0065, 0.3MSEK)
 
 2014
 :   Tom Hedelius Scholarship for research visit to Harvard University
