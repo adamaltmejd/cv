@@ -51,9 +51,6 @@ address:
 2021
 :   [@Altmejd2021_o_brother]
 
-2019
-:   [@Altmejd2019_predicting_replicability]
-
 2018
 :   [@Camerer2018_evaluating_replicability]
 

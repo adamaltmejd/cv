@@ -60,6 +60,9 @@ address:
 
 # Publications
 
+2023
+:   [@Altmejd2023_nowcasting_covid19]
+
 2021
 :   [@Altmejd2021_o_brother]
 
@@ -80,9 +83,6 @@ address:
 2022
 :   [@Altmejd2022_inheritance_fields]
 :   [@Altmejd2022_business_education]
-
-2020
-:   [@Altmejd2020_nowcasting_covid19]
 
 # Work In Progress
 
