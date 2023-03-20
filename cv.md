@@ -80,8 +80,11 @@ address:
 
 # Working Papers
 
+2023
+:   [@Altmejd2023_inheritance_fields]
+
 2022
-:   [@Altmejd2022_inheritance_fields]
+:   [@Altmejd2022_inequality_covid19]
 :   [@Altmejd2022_business_education]
 
 # Work In Progress
@@ -94,11 +97,11 @@ address:
 
 *Inequality in College Applications: Evidence from Three Continents* with Andrés Barrios-Fernández, Aspasia Bizopoulou, Martti Kaila, Rigissa Megalokonomou, José Montalban, Christopher Neilson, Sebastian Otero, and Xiaoyang Ye
 
+*How does access to role models impact sterotypical beliefs about STEM education?* with Andrew Funck, Mona Mensmann, Ali Mohammadi, Karl Wennberg, and Thomas Åstebro
+
 *Do engineering schools foster innovation?* with Daniel Metzger and Michael Böhm
 
 *The Formation of Prosocial Preferences in the Field* with David Birke and Egon Tripodi
-
-*COVID-19 inequality* with Evelina Björkegren, Torsten Persson, and Olof Östergren
 
 *Heterogeneity in COVID-19 morbidity and mortality* with Evelina Björkegren, Arizo Karimi, Torsten Persson, and Olof Östergren
 
@@ -123,6 +126,10 @@ Co-author • <cneilson@princeton.edu>
 ## Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222)
 
 PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
+
+## Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602)
+
+PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
 
 # Awards and Grants
 
