@@ -172,7 +172,7 @@ PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
 
 # Referee Service
 
-B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, Journal of Behavioral and Experimental Finance, Journal of Public Economics, PLOS One, Scandinavian Journal of Economics, Social Forces, Quarterly Journal of Economics
+B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, IFAU, International Journal for Re-Views in Empirical Economics, Journal of Behavioral and Experimental Finance, Journal of Health Economics, Journal of Public Economics, Journal of Political Economy Microeconomics, PLOS One, Quarterly Journal of Economics, Social Forces, Scandinavian Journal of Educational Research, Scandinavian Journal of Economics
 
 # Non-academic Qualifications
 
