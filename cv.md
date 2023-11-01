@@ -89,6 +89,7 @@ address:
 
 2023
 :   [@Altmejd2023_inheritance_fields]
+:   Winner of the Distinguished CESifo Affiliate Award 2023.
 
 2022
 :   [@Altmejd2022_business_education]
