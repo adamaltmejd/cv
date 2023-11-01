@@ -27,17 +27,23 @@ address:
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
-# Research Visits
+# Affiliations and Visiting Positions
+
+2023--
+:   Distinguished **[CESifo](https://www.cesifo.org/en/network-member/altmejd-adam)** Affiliate, Munich, Germany
+
+2023--
+:   Research Affiliate, **[IZA](https://www.iza.org/people/affiliates/32832/adam-altmejd)**, Bonn, Germany
 
 2016--2017
-:    Department of Economics, **[Harvard University](http://economics.harvard.edu/)**, Faculty Sponsor: Prof. David Laibson
+:   Associate of the Department of Economics, **[Harvard University](http://economics.harvard.edu/)**, Faculty Sponsor: Prof. David Laibson
 
 # Research Breaks
 
 2021-2022
-:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com)
+:   **Researcher (sekreterare)**, [Coronakommissionen](https://coronakommissionen.com), The Swedish COVID-19 Commission
 
-    The Swedish COVID-19 Commission, tasked by the government to evaluate how the country dealt with the pandemic. July 2021--February 2022 at 60% of full time.
+    April 2021--February 2022.
 
 # Education
 
@@ -61,6 +67,7 @@ address:
 # Publications
 
 2023
+:   [@Altmejd2023_inequality_covid19]
 :   [@Altmejd2023_nowcasting_covid19]
 
 2021
@@ -84,7 +91,6 @@ address:
 :   [@Altmejd2023_inheritance_fields]
 
 2022
-:   [@Altmejd2022_inequality_covid19]
 :   [@Altmejd2022_business_education]
 
 # Work In Progress
@@ -170,16 +176,16 @@ PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
 
     Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics. Not evaluated.
 
-# Referee Service
+# Referee Service (#)
 
-B.E. Journal of Economic Analysis and Policy, Economic Inquiry, Economic Journal, IFAU, International Journal for Re-Views in Empirical Economics, Journal of Behavioral and Experimental Finance, Journal of Health Economics, Journal of Public Economics, Journal of Political Economy Microeconomics, PLOS One, Quarterly Journal of Economics, Social Forces, Scandinavian Journal of Educational Research, Scandinavian Journal of Economics
+American Economic Journal: Applied Economics (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (1), Journal of Health Economics (1), Journal of Politics (1), Journal of Public Economics (2), Journal of Political Economy Microeconomics (2), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 
 2016--
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
 
-    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. With funding from [Postkodlotteriet](http://kulturstiftelsen.se) we launched Musethica Sweden in 2016.
+    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. Musethica Sweden is funded by grants from Postkodlotteriet (500kSEK) and Signatur (375kSEK).
 
 # Skills
 
@@ -189,4 +195,4 @@ Swedish (native), English (fluent), French (limited), Polish (limited)
 
 ## Computer Skills
 
-Advanced user of PC, Mac, *nix, MS-Office, STATA, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS and SASS.
+Advanced user of PC, Mac, *nix, MS-Office, STATA, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS, and SASS.

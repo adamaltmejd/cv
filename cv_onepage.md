@@ -28,17 +28,26 @@ address:
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
+# Affiliations and Visiting Positions
+
+2023--
+:   Distinguished **[CESifo](https://www.cesifo.org/en/network-member/altmejd-adam)** Affiliate, Munich, Germany
+
+2023--
+:   Research Affiliate, **[IZA](https://www.iza.org/people/affiliates/32832/adam-altmejd)**, Bonn, Germany
+
+2016--2017
+:   Associate of the Department of Economics, **[Harvard University](http://economics.harvard.edu/)**
+
 # Research Breaks
 
 2021-2022
-:   **Researcher (sekreterare)**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (July 2021--February 2022, 60%)
+:   **Researcher (sekreterare)**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (April 2021--February 2022)
 
 # Education
 
 2013--2018
 :   **Ph.D. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/PhD/economics/)
-
-    Thesis title: "Education & Replication". Visiting Researcher, [Harvard University](http://economics.harvard.edu/), Faculty Sponsor: Prof. David Laibson. (2016/2017). Visiting Ph.D. Student, [Stanford University](https://www.stanford.edu/) (2015).
 
 2012--2016
 :   **M.Sc. in Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/MSc/MECON/), M.Sc.--Ph.D. parallel enrollment
@@ -47,6 +56,9 @@ address:
 :   **B.Sc. in Business & Economics**, [Stockholm School of Economics](https://www.hhs.se/en/Education/BSc/BE/)
 
 # Selected publications
+
+2023
+:   [@Altmejd2023_inequality_covid19]
 
 2021
 :   [@Altmejd2021_o_brother]
@@ -58,12 +70,6 @@ address:
 :   [@Camerer2016_evaluating_replicability]
 
 # References
-
-Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/) • Supervisor • <tore.ellingsen@hhs.se>
-
-Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/) • Dissertation Opponent • <katrine.loken@nhh.no>
-
-Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer) • Co-author • <camerer@hss.caltech.edu>
 
 Professor [Christopher A. Neilson](https://christopherneilson.github.io) • Co-author • <cneilson@princeton.edu>
 
@@ -81,9 +87,3 @@ Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Pr
 
 2014, 2015
 :   Math Summer Camp, PhD
-
-2014, 2015
-:   Teaching Assistant: Mathematics I, PhD
-
-2012
-:   Teaching Assistant: Microeconomics, BSc
