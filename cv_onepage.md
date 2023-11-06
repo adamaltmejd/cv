@@ -11,11 +11,10 @@ linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
 mobile: '+46 (0) 734 20 01 20'
 address:
-    affiliation: 'Department of Economics'
-    online: 'https://www.hhs.se/en/Research/Departments/DE/'
-    main: 'Stockholm School of Economics'
-    box: 'P.O. Box 6501'
-    city: '113 83 Stockholm'
+    affiliation: 'Swedish Institute for Social Research'
+    online: 'https://www.su.se/swedish-institute-for-social-research/'
+    main: 'Stockholm University'
+    city: '106 91 Stockholm'
     country: 'Sweden'
 ---
 
@@ -42,7 +41,7 @@ address:
 # Research Breaks
 
 2021-2022
-:   **Researcher (sekreterare)**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (April 2021--February 2022)
+:   **Investigator**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (April 2021--February 2022)
 
 # Education
 

@@ -152,11 +152,10 @@ $endif$
         {\LARGE\headerfont $title$}
     \end{minipage}%
     \hfill%
-    \begin{minipage}[b]{0.3\textwidth}
+    \begin{minipage}[b]{0.33\textwidth}
         \raggedleft\footnotesize\addressblockfont
         \href{$address.online$}{$address.affiliation$}\\
         $address.main$\\
-        $address.box$ \\
         $address.city$ \\
         $address.country$
     \end{minipage}%
@@ -167,7 +166,7 @@ $endif$
             \href{mailto:$email$}{$email$} \, \faEnvelope \\
             \href{https://$homepage$}{$homepage$} \, \faGlobe \\
             \href{https://twitter.com/$twitter$}{@$twitter$} \, \faTwitter \\
-            \href{https://linkedin.com/in/$linkedin$}{$linkedin$} \, \faLinkedin \\
+            %\href{https://linkedin.com/in/$linkedin$}{$linkedin$} \, \faLinkedin \\
             %\href{https://github.com/$github$}{$github$} \, \faGithub
     \end{minipage}
 
