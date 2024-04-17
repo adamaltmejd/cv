@@ -176,7 +176,7 @@ PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
 
 # Referee Service (#)
 
-American Economic Journal: Applied Economics (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (1), Journal of Health Economics (1), Journal of Politics (1), Journal of Public Economics (2), Journal of Political Economy Microeconomics (2), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
+American Economic Journal: Applied Economics (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Health Economics (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (4), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 
