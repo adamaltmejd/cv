@@ -20,11 +20,12 @@ address:
 
 # Academic Positions
 
-2019--
-:   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
-
 2018--
 :   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
+
+2019--2023
+:   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
+
 
 # Affiliations and Visiting Positions
 
@@ -84,12 +85,10 @@ address:
 
 # Working Papers
 
-2023
-:   [@Altmejd2023_inheritance_fields]
+2024
+:   [@Altmejd2024_inheritance_fields]
 :   Winner of the Distinguished CESifo Affiliate Award 2023.
-
-2022
-:   [@Altmejd2022_business_education]
+:   [@Altmejd2024_business_education]
 
 # Work In Progress
 
@@ -137,22 +136,28 @@ PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
 
 # Awards and Grants
 
+2024
+:   The Kamprad Family Foundation. *STEM role-models and gender stereotypical beliefs*. Co-applicant, 3.2MSEK.
+
+2023
+:   The Royal Swedish Academy of Sciences, the Lennart ”Aktiestinsen” Israelssons foundation. *STEM role-models and gender stereotypical beliefs*. Co-applicant, 1.8MSEK.
+
 2022
-:   Riksbankens Jubileumsfond *A research program about COVID-19*. Infrastructure grant. (co-applicant, 12.5MSEK)
+:   Riksbankens Jubileumsfond. *A research program about COVID-19*. Infrastructure grant. Co-applicant, 12.5MSEK.
 
 2020
-:   IFAU Project Grant "The Impact of University Education: Causal Evidence from Four Decades of Applications" (Principal Investigator, 152/2020, 1.5MSEK)
+:   IFAU Project Grant. *The Impact of University Education: Causal Evidence from Four Decades of Applications*. Principal Investigator, 1.5MSEK (152/2020).
 
 2019
-:   Jan Wallander 3-year Postdoctoral Fellowship (W18-0005, 1.7MSEK)
-:   The Jan Wallander and Tom Hedelius Foundation Program Grant "Bystander-Initiated CPR: Health Outcomes, Social Spillovers, and Efficient Coordination of Volunteers" (Principal Investigator, P19-0168, 1MSEK)
+:   Jan Wallander 3-year Postdoctoral Fellowship. (W18-0005) 1.7MSEK.
+:   The Jan Wallander and Tom Hedelius Foundation Program Grant "Bystander-Initiated CPR: Health Outcomes, Social Spillovers, and Efficient Coordination of Volunteers". Principal Investigator (P19-0168), 1MSEK.
 
 2018
-:   Skandiabanken Thule Foundation, Postdoctoral Scholarship (0.5MSEK)
-:   Royal Academy Research Grant (Principal Investigator, SO2018-0065, 0.3MSEK)
+:   Skandiabanken Thule Foundation. Postdoctoral Scholarshi, 0.5MSEK.
+:   Royal Academy Research Grant. Principal Investigator (SO2018-0065), 0.3MSEK.
 
 2014
-:   Tom Hedelius Scholarship for research visit to Harvard University
+:   Tom Hedelius Scholarship for research visit to Harvard University, 0.5MSEK.
 
 # Teaching Experience
 
