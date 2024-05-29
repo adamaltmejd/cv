@@ -70,11 +70,11 @@ address:
 
 # References
 
-Professor [Christopher A. Neilson](https://christopherneilson.github.io) • Co-author • <cneilson@princeton.edu>
+Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602) • PI • <torsten.persson@iies.su.se>
 
 Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222) • PI • <carina.mood@sofi.su.se>
 
-Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602) • PI • <torsten.persson@iies.su.se>
+Professor [Christopher A. Neilson](https://christopherneilson.github.io) • Co-author • <christopher.neilson@yale.edu>
 
 # Selected awards and Grants
 The Kamprad Family Foundation (co-applicant, 3.2MSEK), Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)

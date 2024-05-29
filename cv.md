@@ -110,13 +110,17 @@ address:
 
 # References
 
+## Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602)
+
+PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
+
+## Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222)
+
+PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
+
 ## Professor [Tore Ellingsen](https://sites.google.com/site/tellingsensse/)
 
 Primary Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
-
-## Professor [Katrine V. Løken](https://sites.google.com/site/katrinecv/)
-
-Dissertation Opponent • <katrine.loken@nhh.no> • +47 41 66 15 91
 
 ## Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
 
@@ -124,15 +128,7 @@ Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
 
 ## Professor [Christopher A. Neilson](https://christopherneilson.github.io)
 
-Co-author • <cneilson@princeton.edu>
-
-## Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222)
-
-PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
-
-## Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602)
-
-PI • <torsten.persson@iies.su.se> • +46 8 16 30 66
+Co-author • <christopher.neilson@yale.edu>
 
 # Awards and Grants
 
