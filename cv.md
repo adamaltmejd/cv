@@ -21,7 +21,7 @@ address:
 # Academic Positions
 
 2018--
-:   **Postdoctoral Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
+:   **Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
 
 2019--2023
 :   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
@@ -133,10 +133,10 @@ Co-author • <christopher.neilson@yale.edu>
 # Awards and Grants
 
 2024
-:   The Kamprad Family Foundation. *STEM role-models and gender stereotypical beliefs*. Co-applicant, 3.2MSEK.
+:   The Kamprad Family Foundation. *STEM role-models and gender-stereotypical beliefs*. Co-applicant, 3.2MSEK.
 
 2023
-:   The Royal Swedish Academy of Sciences, the Lennart ”Aktiestinsen” Israelssons foundation. *STEM role-models and gender stereotypical beliefs*. Co-applicant, 1.8MSEK.
+:   The Royal Swedish Academy of Sciences, the Lennart ”Aktiestinsen” Israelssons foundation. *STEM role-models and gender-stereotypical beliefs*. Co-applicant, 1.8MSEK.
 
 2022
 :   Riksbankens Jubileumsfond. *A research program about COVID-19*. Infrastructure grant. Co-applicant, 12.5MSEK.
@@ -177,7 +177,7 @@ Co-author • <christopher.neilson@yale.edu>
 
 # Referee Service (#)
 
-American Economic Journal: Applied Economics (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Health Economics (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (4), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
+American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (1), Journal of Health Economics (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 
