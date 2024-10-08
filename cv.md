@@ -177,14 +177,14 @@ Co-author • <christopher.neilson@yale.edu>
 
 # Referee Service (#)
 
-American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (1), Journal of Health Economics (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
+American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (1), Journal of Health Economics (1), Journal of Human Resources (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 
 2016--
 :   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
 
-    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. Musethica Sweden is funded by grants from Postkodlotteriet (500kSEK) and Signatur (375kSEK).
+    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. Musethica Sweden is funded by grants from Postkodlotteriet (500kSEK) and Signatur (375kSEK), the EU.
 
 # Skills
 
