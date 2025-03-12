@@ -41,7 +41,7 @@ address:
 # Research Breaks
 
 2021-2022
-:   **Investigator**, [Coronakommissionen](https://coronakommissionen.com), The Swedish COVID-19 Commission (April 2021--February 2022).
+:   **Investigator**, The Swedish COVID-19 Commission (April 2021--February 2022).
 
 # Education
 
@@ -96,17 +96,19 @@ address:
 
 *University education, political participation, and prosocial behavior* with Luis Cornago Bonal and José Montalban
 
-*University education and health* with Andreas Diemer
+*University education and health* with Gregory Veramendi, Juanna S. Joensen, and John Eric Humphries
 
-*Inequality in College Applications: Evidence from Three Continents* with Andrés Barrios-Fernández, Aspasia Bizopoulou, Martti Kaila, Rigissa Megalokonomou, José Montalban, Christopher Neilson, Sebastian Otero, and Xiaoyang Ye
+*Do gender-sterotypical beliefs make women shy away from STEM?* with Andrew Funck, Mona Mensmann, Ali Mohammadi, Karl Wennberg, and Thomas Åstebro
 
-*How does access to role models impact sterotypical beliefs about STEM education?* with Andrew Funck, Mona Mensmann, Ali Mohammadi, Karl Wennberg, and Thomas Åstebro
-
-*Do engineering schools foster innovation?* with Daniel Metzger and Michael Böhm
-
-*The Formation of Prosocial Preferences in the Field* with David Birke and Egon Tripodi
+*Do engineering schools foster innovation?* with David Strömberg, David Seim, Jakob Beuschlein, Michael Böhm, and Daniel Metzger
 
 *Heterogeneity in COVID-19 morbidity and mortality* with Evelina Björkegren, Arizo Karimi, Torsten Persson, and Olof Östergren
+
+*Real-world efficacy of Covid-19 vaccines* with Torsten Persson, Dominik Dietler, and Anton Nilsson
+
+*Determinants and consequences of longcovid* with Torsten Persson, Anna Mia Ekström, Oskar Nordström Skans, Maxim Kan, and Olof Östergren
+
+*Differential learning loss between immigrants and natives during the pandemic* with Carina Mood, Janne Jonsson, and Andreas Gustafsson
 
 # References
 
@@ -122,10 +124,6 @@ PI • <carina.mood@sofi.su.se> • +46 8 16 25 86
 
 Primary Supervisor • <tore.ellingsen@hhs.se> • +46 8 736 92 60
 
-## Professor [Colin F. Camerer](http://www.hss.caltech.edu/content/colin-f-camerer)
-
-Co-author • <camerer@hss.caltech.edu> • +1 (626) 395-4054
-
 ## Professor [Christopher A. Neilson](https://christopherneilson.github.io)
 
 Co-author • <christopher.neilson@yale.edu>
@@ -134,6 +132,8 @@ Co-author • <christopher.neilson@yale.edu>
 
 2024
 :   The Kamprad Family Foundation. *STEM role-models and gender-stereotypical beliefs*. Co-applicant, 3.2MSEK.
+:   Riksbankens Jubileumsfond. *Optimism trap or optimism springboard? Aspirations, educational trajectories, and early careers of youth with foreign-born parents*. Co-applicant, 6.2MSEK (P24-0170).
+:   Forte. *Faces of Inequality: An Empirical Study Using Passport Photos and AI to Assess Appearance-Based Discrimination in Sweden*. Principal Investigator, 5MSEK (2024-00440).
 
 2023
 :   The Royal Swedish Academy of Sciences, the Lennart ”Aktiestinsen” Israelssons foundation. *STEM role-models and gender-stereotypical beliefs*. Co-applicant, 1.8MSEK.
@@ -177,21 +177,15 @@ Co-author • <christopher.neilson@yale.edu>
 
 # Referee Service (#)
 
-American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (1), Journal of Health Economics (1), Journal of Human Resources (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
+American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (2), Journal of Health Economics (1), Journal of Human Resources (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 
 2016--
-:   **Founder and Member of the Board**, [Musethica Sweden](https://musethica.org)
+:   **Co-founder and Treasurer**, [Musethica Sweden](https://sweden.musethica.org/)
 
-    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. Musethica Sweden is funded by grants from Postkodlotteriet (500kSEK) and Signatur (375kSEK), the EU.
-
-# Skills
+    Musethica is an international nonprofit organization that promotes a new approach to teaching classical music, integrating concerts into the education program of young excellent artists. The students perform in kindergartens, prisons and immigrant housing. Musethica Sweden is funded by grants from Postkodlotteriet (2016, 500kSEK), Signatur (2023-2025, 350kSEK per year), and the EU Creative Europe Culture Programme (2025-2028, €100k).
 
 ## Spoken Languages
 
 Swedish (native), English (fluent), French (limited), Polish (limited)
-
-## Computer Skills
-
-Advanced user of PC, Mac, *nix, MS-Office, STATA, Adobe-suite. Programming in R, Python, SQL, LaTeX, Bash. Web Design in HTML, CSS, and SASS.
