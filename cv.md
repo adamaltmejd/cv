@@ -2,26 +2,29 @@
 layout: cv_layout
 title: Curriculum Vitae
 author: Adam Altmejd
-email: 'adam@altmejd.se'
+email: 'adam.altmejd@ifau.uu.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
 description: 'The Curriculum Vitae of Adam Altmejd, Ph.D. in Economics.'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
-mobile: '+46 (0) 734 20 01 20'
+mobile: '+46 729 99 99 68'
 address:
-    affiliation: 'Swedish Institute for Social Research'
-    online: 'https://www.su.se/swedish-institute-for-social-research/'
-    main: 'Stockholm University'
-    city: '106 91 Stockholm'
+    affiliation: 'Institutet för Arbetsmarknads- och Utbildningspolitisk Utvärdering'
+    online: 'https://ifau.se'
+    main: 'Kyrkogårdsgatan 6'
+    city: '753 12 Uppsala'
     country: 'Sweden'
 ---
 
 # Academic Positions
 
-2018--
-:   **Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
+2026--
+:   **Researcher**, [Institute for Evaluation of Labor Market and Education Policy (IFAU)](https://ifau.se), Uppsala
+
+2018--2025
+:   **Researcher**, [Swedish Institute for Social Research (SOFI)](https://www.sofi.su.se), Stockholm University
 
 2019--2023
 :   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
@@ -40,8 +43,12 @@ address:
 
 # Research Breaks
 
+2025
+:   Parental leave
+
 2021-2022
-:   **Investigator**, The Swedish COVID-19 Commission (April 2021--February 2022).
+:   Investigator, The Swedish COVID-19 Commission
+
 
 # Education
 
@@ -100,8 +107,6 @@ address:
 
 *Do gender-sterotypical beliefs make women shy away from STEM?* with Andrew Funck, Mona Mensmann, Ali Mohammadi, Karl Wennberg, and Thomas Åstebro
 
-*Do engineering schools foster innovation?* with David Strömberg, David Seim, Jakob Beuschlein, Michael Böhm, and Daniel Metzger
-
 *Heterogeneity in COVID-19 morbidity and mortality* with Evelina Björkegren, Arizo Karimi, Torsten Persson, and Olof Östergren
 
 *Real-world efficacy of Covid-19 vaccines* with Torsten Persson, Dominik Dietler, and Anton Nilsson
@@ -157,27 +162,24 @@ Co-author • <christopher.neilson@yale.edu>
 
 # Teaching Experience
 
+2025, 2026
+:   Econometrics 3 - Data science for economic analysis. MSc, Stockholm University. Course director.
+
 2020, 2021
-:   BSc thesis supervisor in Finance. Average score 7/7.
+:   BSc and MSc thesis supervisor in Finance. Average score 7/7.
 
 2014, 2015
-:   Math Summer Camp, Ph.D.
-
-    Preparatory math class for arriving Ph.D. students in Economics and Finance. Average score 4.5/5.
+:   Math Ph.D Summer Camp. Stockholm School of Economics. Teacher. Average score 4.5/5.
 
 2014, 2015
-:   Teaching Assistant: Mathematics I, Ph.D.
-
-    Teaching Assistant for Prof. Jörgen Weibull. Introductory Mathematics for Ph.D. students in Economics and Finance. Real analysis, topology, optimization and set theory. Average score 4.5/5.
+:   Teaching Assistant: Mathematics I, Ph.D. Average score 4.5/5.
 
 2012
-:   Teaching Assistant: Microeconomics, B.Sc.
-
-    Teaching Assistant for Professor Richard Friberg in introductory undergraduate Microeconomics. Not evaluated.
+:   Teaching Assistant: Microeconomics, B.Sc. Not evaluated.
 
 # Referee Service (#)
 
-American Economic Journal: Applied Economics (1), American Economic Review (1), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (2), Journal of Health Economics (1), Journal of Human Resources (1), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
+American Economic Journal: Applied Economics (1), American Economic Review (2), B.E. Journal of Economic Analysis and Policy (1), Economic Inquiry (1), Economic Journal (1), IFAU (1), International Journal for Re-Views in Empirical Economics (1), Journal of Behavioral and Experimental Finance (1), Journal of Economic Growth (2), Journal of Economic Inequality (2), Journal of Health Economics (1), Journal of Human Resources (2), Journal of Politics (2), Journal of Public Economics (2), Journal of Political Economy Microeconomics (5), PLOS One (2), Quarterly Journal of Economics (1), Social Forces (1), Review of Economic Studies (1), Scandinavian Journal of Educational Research (1), Scandinavian Journal of Economics (2).
 
 # Non-academic Qualifications
 

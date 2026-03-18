@@ -2,27 +2,30 @@
 layout: cv_layout
 title: Curriculum Vitae
 author: Adam Altmejd
-email: 'adam@altmejd.se'
+email: 'adam.altmejd@ifau.uu.se'
 keywords: 'CV, Curriculum Vitae, Vita, Resume, Adam Altmejd'
 description: 'The Curriculum Vitae of Adam Altmejd, Ph.D. in Economics.'
 homepage: adamaltmejd.se
 twitter: 'adamaltmejd'
 linkedin: 'adamaltmejd'
 github: 'adamaltmejd'
-mobile: '+46 (0) 734 20 01 20'
+mobile: '+46 729 99 99 68'
 address:
-    affiliation: 'Swedish Institute for Social Research'
-    online: 'https://www.su.se/swedish-institute-for-social-research/'
-    main: 'Stockholm University'
-    city: '106 91 Stockholm'
+    affiliation: 'Institutet för Arbetsmarknads- och Utbildningspolitisk Utvärdering'
+    online: 'https://ifau.se'
+    main: 'Kyrkogårdsgatan 6'
+    city: '753 12 Uppsala'
     country: 'Sweden'
 ---
 
 
 # Academic Positions
 
-2018--
-:   **Researcher**, [Swedish Institute for Social Research](https://www.sofi.su.se), Stockholm University
+2026--
+:   **Researcher**, [Institute for Evaluation of Labor Market and Education Policy (IFAU)](https://ifau.se), Uppsala
+
+2018--2025
+:   **Researcher**, [Swedish Institute for Social Research (SOFI)](https://www.sofi.su.se), Stockholm University
 
 2019--2023
 :   **Wallander Postdoctoral Fellow**, [Department of Finance](https://www.hhs.se/en/research/departments/df/), Stockholm School of Economics
@@ -40,8 +43,11 @@ address:
 
 # Research Breaks
 
+2025
+:   Parental leave
+
 2021-2022
-:   **Investigator**, [The Swedish COVID-19 Comission](https://coronakommissionen.com) (April 2021--February 2022)
+:   Investigator, The Swedish COVID-19 Commission
 
 # Education
 
@@ -68,21 +74,14 @@ address:
 2016
 :   [@Camerer2016_evaluating_replicability]
 
-# References
-
-Professor [Torsten Persson](https://www.su.se/profiles/tpers-1.182602) • PI • <torsten.persson@iies.su.se>
-
-Professor [Carina Mood](https://www.su.se/profiles/carinam-1.185222) • PI • <carina.mood@sofi.su.se>
-
-Professor [Christopher A. Neilson](https://christopherneilson.github.io) • Co-author • <christopher.neilson@yale.edu>
-
 # Selected awards and Grants
-The Kamprad Family Foundation (co-applicant, 3.2MSEK), Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
 
-# Teaching Experience
+Forte (PI, 5MSEK), Riksbankens Jubileumsfond (co-applicant, 6.2MSEK), The Kamprad Family Foundation (co-applicant, 3.2MSEK), Riksbankens Jubileumsfond infrastructure grant (co-applicant, 12.5MSEK), IFAU Project Grant (PI, 152/2020), The Jan Wallander and Tom Hedelius Foundation Program Grant (2019, PI, P19-0168), Jan Wallander Postdoctoral Fellowship (2018), Royal Academy Research Grant (2018, PI, SO2018-0065), Thulestiftelsen Postdoctoral Scholarship (2018, PI), Tom Hedelius Grant (2014)
+
+# Selected Teaching Experience
+
+2025, 2026
+:   Econometrics 3 - Data science for economic analysis. MSc, Stockholm University. Course director.
 
 2020, 2021
 :   BSc and MSc thesis supervisor in Finance. Average score 7/7.
-
-2014, 2015
-:   Math Summer Camp, PhD
