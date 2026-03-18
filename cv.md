@@ -113,7 +113,7 @@ address:
 
 *Determinants and consequences of longcovid* with Torsten Persson, Anna Mia Ekström, Oskar Nordström Skans, Maxim Kan, and Olof Östergren
 
-*Differential learning loss between immigrants and natives during the pandemic* with Carina Mood, Janne Jonsson, and Andreas Gustafsson
+*Differential learning loss between immigrants and natives during the pandemic* with Carina Mood, Jan O. Jonsson, and Andreas Ljungström
 
 # References
 
