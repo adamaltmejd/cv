@@ -1,5 +1,9 @@
 // CV Pandoc Template for Typst — Adam Altmejd
 
+// --- Fonts ---
+#let sans = "Gill Sans Std"
+#let mono = "Operator Mono"
+
 // --- Page setup ---
 #set page(
   paper: "a4",
@@ -8,7 +12,7 @@
     let pg = counter(page).get().first()
 $if(git-hash)$
     if pg == 1 {
-      align(center, text(font: "Operator Mono", size: 0.7em, "Commit $git-hash$ on $git-date$"))
+      align(center, text(font: mono, size: 0.7em, "Commit $git-hash$ on $git-date$"))
     } else {
       align(right, str(pg))
     }
@@ -20,7 +24,6 @@ $endif$
   },
 )
 
-// --- Fonts ---
 #set text(
   font: "Minion Pro",
   size: 11pt,
@@ -45,16 +48,16 @@ $endif$
     h(-18mm)
     box(width: 16mm, height: 1mm, fill: black)
     h(2mm)
-    text(font: "Gill Sans Std", weight: 300, size: 14.4pt, it.body)
+    text(font: sans, weight: 300, size: 14.4pt, it.body)
   })
 }
 
 #show heading.where(level: 2): it => block(above: 8pt, below: 6pt,
-  text(font: "Gill Sans Std", weight: 300, size: 12pt, it.body)
+  text(font: sans, weight: 300, size: 12pt, it.body)
 )
 
 #show heading.where(level: 3): it => {
-  text(font: "Gill Sans Std", weight: "regular", it.body)
+  text(font: sans, weight: 300, it.body)
 }
 
 // --- Description/term lists (year | description layout) ---
@@ -62,7 +65,7 @@ $endif$
   block(above: 5.5pt, below: 0pt)[
     #place(left, dx: -28mm,
       box(width: 26mm,
-        align(right, text(font: "Gill Sans Std", size: 0.8em, it.term))
+        align(right, text(font: sans, size: 0.8em, it.term))
       )
     )
     #it.description
@@ -70,7 +73,7 @@ $endif$
 }
 
 // --- Monospace ---
-#show raw: set text(font: "Operator Mono", size: 0.8em)
+#show raw: set text(font: mono, size: 0.8em)
 
 // --- Font Awesome 5 icons ---
 #let fa-icon(codepoint) = {
@@ -90,16 +93,16 @@ $endif$
 #grid(
   columns: (2fr, 1.6fr, 1.2fr),
   align(left + bottom)[
-    #text(font: "Gill Sans Std", stretch: 75%, size: 35pt)[$author$]\
-    #text(font: "Gill Sans Std", stretch: 75%, size: 29pt)[$title$]
+    #text(font: sans, stretch: 75%, size: 35pt)[$author$]\
+    #text(font: sans, stretch: 75%, size: 29pt)[$title$]
   ],
-  align(right + bottom, text(font: "Gill Sans Std", size: 9pt)[
+  align(right + bottom, text(font: sans, size: 9pt)[
     #link("$address.online$")[$address.affiliation$]\
     $address.main$\
     $address.city$\
     $address.country$
   ]),
-  align(right + bottom, text(font: "Gill Sans Std", size: 9pt)[
+  align(right + bottom, text(font: sans, size: 9pt)[
     $mobile$ #h(2pt) #fa-phone\
     #link("mailto:$email$")[$email$] #h(2pt) #fa-envelope\
     #link("https://$homepage$")[$homepage$] #h(2pt) #fa-globe\
