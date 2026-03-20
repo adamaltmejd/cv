@@ -1,8 +1,9 @@
 // CV Pandoc Template for Typst — Adam Altmejd
 
 // --- Fonts ---
-#let sans = "Gill Sans Std"
-#let mono = "Operator Mono"
+#let serif = "EB Garamond"
+#let sans = "Lato"
+#let mono = "JetBrains Mono"
 
 // --- Page setup ---
 #set page(
@@ -10,9 +11,9 @@
   margin: (left: 30mm, right: 25mm, top: 18mm, bottom: 23mm),
   footer: context {
     let pg = counter(page).get().first()
-$if(git-hash)$
+$if(git-date)$
     if pg == 1 {
-      align(center, text(font: mono, size: 0.7em, "Commit $git-hash$ on $git-date$"))
+      align(center, text(font: mono, size: 0.7em, "Last updated: $git-date$"))
     } else {
       align(right, str(pg))
     }
@@ -25,7 +26,7 @@ $endif$
 )
 
 #set text(
-  font: "Minion Pro",
+  font: serif,
   size: 11pt,
 )
 
@@ -91,16 +92,15 @@ $endif$
 // HEADER
 // ==========================================================
 #grid(
-  columns: (2fr, 1.6fr, 1.2fr),
+  columns: (1.8fr, 1.6fr, 1.4fr),
   align(left + bottom)[
-    #text(font: sans, stretch: 75%, size: 35pt)[$author$]\
-    #text(font: sans, stretch: 75%, size: 29pt)[$title$]
+    #text(font: sans, weight: 700, size: 24pt)[$author$]\
+    #text(font: sans, weight: 300, size: 19pt)[$title$]
   ],
   align(right + bottom, text(font: sans, size: 9pt)[
     #link("$address.online$")[$address.affiliation$]\
     $address.main$\
-    $address.city$\
-    $address.country$
+    $address.city$
   ]),
   align(right + bottom, text(font: sans, size: 9pt)[
     $mobile$ #h(2pt) #fa-phone\

@@ -1,7 +1,8 @@
 # Makefile for Adam Altmejd's resume
 #
 # Requirements: pandoc, typst
-# Fonts: Font Awesome 5, Operator Mono, Gill Sans Std, Minion Pro
+# Fonts: EB Garamond, Lato, JetBrains Mono, Font Awesome 5
+FONTPATH = fonts
 
 ## Source and output files
 sources := cv.md cv_onepage.md
@@ -14,9 +15,7 @@ TEMPLATE = cv.template.typ
 PANDOC_FROM = markdown+smart+yaml_metadata_block+header_attributes+definition_lists
 
 # Git metadata for footer
-GIT_HASH := $(shell git rev-parse --short HEAD 2>/dev/null)
 GIT_DATE := $(shell git log -1 --format=%cs HEAD 2>/dev/null)
-GIT_MOD := $(shell git diff-index --quiet HEAD -- 2>/dev/null && echo "" || echo "*")
 
 all: $(targets)
 
@@ -38,13 +37,12 @@ all: $(targets)
 		--bibliography=$(BIB) \
 		--csl=$(CSL) \
 		--template=$(TEMPLATE) \
-		--variable=git-hash:"$(GIT_HASH)$(GIT_MOD)" \
 		--variable=git-date:"$(GIT_DATE)" \
 		--standalone \
 		--output $@ $<
 
 %.pdf: %.typ
-	typst compile $<
+	typst compile --font-path $(FONTPATH) $<
 	rm -f $<
 
 

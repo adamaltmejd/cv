@@ -14,8 +14,7 @@ address:
     affiliation: 'Institutet för Arbetsmarknads- och Utbildningspolitisk Utvärdering'
     online: 'https://ifau.se'
     main: 'Kyrkogårdsgatan 6'
-    city: '753 12 Uppsala'
-    country: 'Sweden'
+    city: '753 12 Uppsala, Sweden'
 ---
 
 
